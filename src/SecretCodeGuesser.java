@@ -67,18 +67,18 @@ public class SecretCodeGuesser {
     Big-O: O(N²)
   */
   public String findSecretCode(String current) {
-    SecretCode code = new SecretCode(); // {1}
-    int matched = code.guess(current); // {N}
-    char[] curr = current.toCharArray(); // {1}
-    for (int i = 0; i < current.length(); i++) { // {N}
-      for (int j = 1; j < 6; j++) { // {K}
-        curr[i] = charOf(j); // 1
-        int charMatchAfterGuess = code.guess(String.valueOf(curr)); // {N}
-        if (charMatchAfterGuess < matched) { // {1}
-          curr[i] = charOf(0); // {1}
-        } else if (charMatchAfterGuess > matched) { // {1}
-          matched++; // {1}
-          break; // {1}
+    SecretCode code = new SecretCode();
+    int matched = code.guess(current); // Check the current amount of match characters with the current string
+    char[] curr = current.toCharArray();
+    for (int i = 0; i < current.length(); i++) { // Looping through every character in the string
+      for (int j = 1; j < 6; j++) { // Looping through every character except for 'B' since the input is just a string of 'B'
+        curr[i] = charOf(j);
+        int charMatchAfterGuess = code.guess(String.valueOf(curr)); // Check the current amount of match characters with the newly modified string
+        if (charMatchAfterGuess < matched) { // If the amount of match character from the newly created string is lower than the current match amount, that would mean it was already correct
+          curr[i] = charOf(0);
+        } else if (charMatchAfterGuess > matched) {
+          matched++;
+          break;
         }
       }
     }
