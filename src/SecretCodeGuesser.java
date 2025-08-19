@@ -1,7 +1,7 @@
 public class SecretCodeGuesser {
+  SecretCode code = new SecretCode();
   public void start() {
     // brute force secret code guessing
-    SecretCode code = new SecretCode();
     int correctLength = -1; // track correct key length
     
     // First, find correct length by brute-force (keep it - no need for change as worst case scenario is 18 guesses)
@@ -67,7 +67,7 @@ public class SecretCodeGuesser {
     Big-O: O(N²)
   */
   public String findSecretCode(String current) {
-    SecretCode code = new SecretCode();
+//    SecretCode code = new SecretCode();
     int matched = code.guess(current); // Check the current amount of match characters with the current string
     char[] curr = current.toCharArray();
     for (int i = 0; i < current.length(); i++) { // Looping through every character in the string
@@ -76,6 +76,7 @@ public class SecretCodeGuesser {
         int charMatchAfterGuess = code.guess(String.valueOf(curr)); // Check the current amount of match characters with the newly modified string
         if (charMatchAfterGuess < matched) { // If the amount of match character from the newly created string is lower than the current match amount, that would mean it was already correct
           curr[i] = charOf(0);
+          break;
         } else if (charMatchAfterGuess > matched) {
           matched++;
           break;
