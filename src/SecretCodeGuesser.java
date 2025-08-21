@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 public class SecretCodeGuesser {
   SecretCode code = new SecretCode();
   public void start() {
@@ -21,7 +24,8 @@ public class SecretCodeGuesser {
 
     // brute force key guessing
     String str = "B".repeat(correctLength); // use discovered length
-    String secretCode = findSecretCode(str);
+//    String secretCode = findSecretCode(str);
+      String secretCode = findSecretCode2(correctLength);
     System.out.println("I found the secret code. It is " + secretCode);
   }
 
@@ -84,5 +88,48 @@ public class SecretCodeGuesser {
       }
     }
     return String.valueOf(curr); // {1}
-  }  
+  }
+
+  // A modified version of the first algorithm that utilize tracking amount
+  public String findSecretCode2(int length) {
+      int matchAmount = 0;
+      char bestChar = ' ';
+      int bestMatch = -1;
+      HashMap<Character, Integer> pair = new HashMap<>();
+      for (int i = 0; i < 6; i++) {
+          char ch = charOf(i);
+          String guess = String.valueOf(ch).repeat(length);
+          int matched = code.guess(guess);
+          if (matched == length) {
+              return guess; // Found the code!
+          }
+          pair.put(ch, matched);
+          if (matched > bestMatch) {
+              matchAmount = matched;
+              bestMatch = matched;
+              bestChar = ch;
+          }
+      }
+      String current = String.valueOf(bestChar).repeat(length);
+      char[] curr = current.toCharArray();
+      for (int i = 0; i < current.length(); i++) { // Looping through every character in the string
+          for (Map.Entry<Character, Integer> entry : pair.entrySet()) { // Looping through every character except for 'B' since the input is just a string of 'B'
+              if (entry.getValue() == 0) {
+                  continue;
+              }
+              char old = curr[i];
+              curr[i] = entry.getKey();
+              int charMatchAfterGuess = code.guess(String.valueOf(curr)); // Check the current amount of match characters with the newly modified string
+              if (charMatchAfterGuess < matchAmount) { // If the amount of match character from the newly created string is lower than the current match amount, that would mean it was already correct
+                  curr[i] = old;
+                  break;
+              } else if (charMatchAfterGuess > matchAmount) {
+                  matchAmount++;
+                  entry.setValue(entry.getValue() - 1);
+                  break;
+              }
+          }
+      }
+      return String.valueOf(curr);
+  }
 }
