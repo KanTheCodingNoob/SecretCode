@@ -112,6 +112,7 @@ public class SecretCodeGuesser {
       }
       String current = String.valueOf(bestChar).repeat(length);
       char[] curr = current.toCharArray();
+      pair.remove(bestChar);
       for (int i = 0; i < current.length(); i++) { // Looping through every character in the string
           for (Map.Entry<Character, Integer> entry : pair.entrySet()) { // Looping through every character except for 'B' since the input is just a string of 'B'
               if (entry.getValue() == 0) {
