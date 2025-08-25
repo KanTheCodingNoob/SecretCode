@@ -1,136 +1,95 @@
-import java.util.HashMap;
-import java.util.Map;
+public final class SecretCodeGuesser {
+    private static final char[] ALPH = {'B','A','C','X','I','U'};
+    private SecretCode code = new SecretCode();
 
-public class SecretCodeGuesser {
-  SecretCode code = new SecretCode();
-  public void start() {
-    // brute force secret code guessing
-    int correctLength = -1; // track correct key length
-    
-    // First, find correct length by brute-force (keep it - no need for change as worst case scenario is 18 guesses)
-    for (int length = 1; length <= 20; length++) {
-      String candidate = "B".repeat(length);
-      int result = code.guess(candidate);
-      if (result != -2) { // not a "wrong length" response
-        correctLength = length;
-        break;
-      }
-    }
-
-    if (correctLength == -1) {
-      System.out.println("Failed to determine secret code length.");
-      return;
-    }
-
-    // brute force key guessing
-    String str = "B".repeat(correctLength); // use discovered length
-//    String secretCode = findSecretCode(str);
-      String secretCode = findSecretCode2(correctLength);
-    System.out.println("I found the secret code. It is " + secretCode);
-  }
-
-  static char charOf(int order) {
-    if (order == 0) {
-      return 'B';
-    } else if (order == 1) {
-      return 'A';
-    } else if (order == 2) {
-      return 'C';
-    } else if (order == 3) {
-      return 'X';
-    } else if (order == 4) {
-      return 'I';
-    } 
-    return 'U';
-  }
-
-  /* - Explanation:
-    This function strive to solve the secret code through flicking each
-    character of the string one by one, seeing if the match counter increase
-    when flicked. If it did, then we confirmed that is the correct character
-    and move onto the next character until the end of the string
-    - Detailed time complexity:
-    Let N = length of the secret code
-    Let K = number of possible characters in the code
-
-    Steps:
-      1. Initial guess() call: O(N)
-      2. Outer loop runs N times (once per character position)
-      3. Inner loop runs at most K-1 times (tries alternative characters)
-         Each iteration calls guess(), which is O(N)
-         Plus constant-time assignments and comparisons.
-
-    Per position cost: (K-1) × O(N) ≈ O(KN)
-    Across all positions: N × O(KN) = O(KN²)
-
-    Since K is a small constant (here 6 possible letters total, 5 tested),
-    the time complexity simplifies to O(N²) for asymptotic analysis.
-
-  - Summary:
-    Exact: at most (K-1) × N + 1 calls to guess(), each O(N)
-    Big-O: O(N²)
-  */
-  public String findSecretCode(String current) {
-//    SecretCode code = new SecretCode();
-    int matched = code.guess(current); // Check the current amount of match characters with the current string
-    char[] curr = current.toCharArray();
-    for (int i = 0; i < current.length(); i++) { // Looping through every character in the string
-      for (int j = 1; j < 6; j++) { // Looping through every character except for 'B' since the input is just a string of 'B'
-        curr[i] = charOf(j);
-        int charMatchAfterGuess = code.guess(String.valueOf(curr)); // Check the current amount of match characters with the newly modified string
-        if (charMatchAfterGuess < matched) { // If the amount of match character from the newly created string is lower than the current match amount, that would mean it was already correct
-          curr[i] = charOf(0);
-          break;
-        } else if (charMatchAfterGuess > matched) {
-          matched++;
-          break;
+    public void start() {
+        // 1) Find the correct length L by brute-force
+        int L = -1;
+        int lastLenScore = -1; // score for the last length probe
+        for (int length = 1; length <= 10000; length++) {
+            int result = code.guess("A".repeat(length));
+            if (result != -2) {
+                L = length;
+                lastLenScore = result; // equals number of 'A' in the secret
+                break;
+            }
         }
-      }
-    }
-    return String.valueOf(curr); // {1}
-  }
+        if (L == -1) {
+            System.out.println("Failed to determine secret code length.");
+            return;
+        }
 
-  // A modified version of the first algorithm that utilize tracking amount
-  public String findSecretCode2(int length) {
-      int matchAmount = 0;
-      char bestChar = ' ';
-      int bestMatch = -1;
-      HashMap<Character, Integer> pair = new HashMap<>();
-      for (int i = 0; i < 6; i++) {
-          char ch = charOf(i);
-          String guess = String.valueOf(ch).repeat(length);
-          int matched = code.guess(guess);
-          if (matched == length) {
-              return guess; // Found the code!
-          }
-          pair.put(ch, matched);
-          if (matched > bestMatch) {
-              matchAmount = matched;
-              bestMatch = matched;
-              bestChar = ch;
-          }
-      }
-      String current = String.valueOf(bestChar).repeat(length);
-      char[] curr = current.toCharArray();
-      pair.remove(bestChar);
-      for (int i = 0; i < current.length(); i++) { // Looping through every character in the string
-          for (Map.Entry<Character, Integer> entry : pair.entrySet()) { // Looping through every character except for 'B' since the input is just a string of 'B'
-              if (entry.getValue() == 0) {
-                  continue;
-              }
-              char old = curr[i];
-              curr[i] = entry.getKey();
-              int charMatchAfterGuess = code.guess(String.valueOf(curr)); // Check the current amount of match characters with the newly modified string
-              if (charMatchAfterGuess < matchAmount) { // If the amount of match character from the newly created string is lower than the current match amount, that would mean it was already correct
-                  curr[i] = old;
-                  break;
-              } else if (charMatchAfterGuess > matchAmount) {
-                  matchAmount++;
-                  entry.setValue(entry.getValue() - 1);
-                  break;
-              }
-          }
-      }
-      return String.valueOf(curr);
-  }
+        // 2) Learn global and remaining counts of each letter (remaining is used to help prune letter tests)
+        int[] globalCount = new int[256], remaining = new int[256];
+        remaining['A'] = globalCount['A'] = lastLenScore; // We already did "AAAA...A" when detecting L; reuse that result
+        for (char c : ALPH) {
+            if (c == 'A') continue;
+            remaining[c] = globalCount[c] = code.guess(String.valueOf(c).repeat(L));
+        }
+
+        // 3) Choose a baseline letter
+        char baseline = ALPH[0];
+        for (char c : ALPH) {
+            if (globalCount[c] > globalCount[baseline]) baseline = c;
+        }
+
+        char[] cur = new char[L];
+        for (int i = 0; i < L; i++) cur[i] = baseline;
+        int k = globalCount[baseline]; // current number (baseline) of exact matches
+
+        // 4) Resolve each position by mutating exactly one index at a time
+        for (int i = 0; i < L; i++) {
+            char original = cur[i];
+
+            // Try letters in a good order:
+            // - If we have remaining counts, try letters with highest remaining first
+            // - Skip letters with remaining count = 0
+            boolean[] tried = new boolean[ALPH.length];
+            boolean positionLocked = false;
+
+            for (int t = 0; t < ALPH.length - 1; t++) {
+                int bestIdx = -1;
+                int bestScore = Integer.MIN_VALUE;
+                for (int j = 0; j < ALPH.length; j++) {
+                    if (tried[j]) continue;
+                    char cand = ALPH[j];
+                    if (cand == original) continue;
+                    if (remaining[cand] == 0) { tried[j] = true; continue; }
+
+                    int score = remaining[cand]; // order hint
+                    if (score > bestScore) { bestScore = score; bestIdx = j; }
+                }
+                if (bestIdx == -1) break; // nothing left to try
+
+                tried[bestIdx] = true;
+                cur[i] = ALPH[bestIdx];
+
+                int r = code.guess(new String(cur));
+
+                if (r > k) {  // Found the correct letter for this position
+                    k = r;
+                    positionLocked = true;
+                    remaining[cur[i]]--;
+                    if (k == L) { // solved early
+                        System.out.println(new String(cur));
+                        return;
+                    }
+                    break;
+                } else if (r < k) { // Original letter at i was correct; revert and lock
+                    cur[i] = original;
+                    positionLocked = true;
+                    remaining[original]--;
+                    break;
+                } else {  // r == k: candidate is not correct here; revert and keep trying
+                    cur[i] = original;
+                }
+            }
+
+            // If none of the trials changed the score, original must be correct
+            if (!positionLocked) remaining[original]--;
+        }
+
+        // 5) Output the discovered secret
+        System.out.println(new String(cur));
+    }
 }
