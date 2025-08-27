@@ -1,14 +1,19 @@
 public final class SecretCodeGuesser {
     private static final char[] ALPH = {'B','A','C','X','I','U'};
-    private SecretCode code = new SecretCode();
+    private final SecretCode code = new SecretCode();
 
     public void start() {
         // 1) Find the correct length L by brute-force
         int L = -1;
         int lastLenScore = -1; // score for the last length probe
         for (int length = 1; length <= 10000; length++) {
-            int result = code.guess("A".repeat(length));
+            String codeGuess = "A".repeat(length);
+            int result = code.guess(codeGuess);
             if (result != -2) {
+                if (length == result) { // Length = result mean that we have find the secret code
+                    System.out.println(codeGuess);
+                    return;
+                }
                 L = length;
                 lastLenScore = result; // equals number of 'A' in the secret
                 break;
@@ -24,7 +29,13 @@ public final class SecretCodeGuesser {
         remaining['A'] = globalCount['A'] = lastLenScore; // We already did "AAAA...A" when detecting L; reuse that result
         for (char c : ALPH) {
             if (c == 'A') continue;
-            remaining[c] = globalCount[c] = code.guess(String.valueOf(c).repeat(L));
+            String codeGuess = String.valueOf(c).repeat(L);
+            int matched = code.guess(codeGuess);
+            if (matched == L) { // If matched = L then we have found the secret code
+                System.out.println(codeGuess);
+                return;
+            }
+            remaining[c] = globalCount[c] = matched;
         }
 
         // 3) Choose a baseline letter
