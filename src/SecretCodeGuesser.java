@@ -1,6 +1,8 @@
 public class SecretCodeGuesser {
     private static final char[] ALPH = {'B','A','C','X','I','U'};
     private final SecretCode code = new SecretCode();
+    private static final int MAX_LENGTH = 18;
+
 
     static int order(char c) {
         if (c == 'B') {
@@ -18,10 +20,10 @@ public class SecretCodeGuesser {
     }
 
     public void start() {
-        // 1) Find the correct length L by brute-force
-        int L = -1;
-        int lastLenScore = -1; // score for the last length probe
-        for (int length = 1; length <= 20; length++) {
+        // 1) Find the correct length by brute-force
+        int correctLength = -1;
+        int matchedA = -1; // score for the last length probe
+        for (int length = 1; length <= MAX_LENGTH; length++) {
             String codeGuess = "A".repeat(length);
             int result = code.guess(codeGuess);
             if (result != -2) {
@@ -29,24 +31,24 @@ public class SecretCodeGuesser {
                     System.out.println(codeGuess);
                     return;
                 }
-                L = length;
-                lastLenScore = result; // equals number of 'A' in the secret
+                correctLength = length;
+                matchedA = result; // equals number of 'A' in the secret
                 break;
             }
         }
-        if (L == -1) {
+        if (correctLength == -1) {
             System.out.println("Failed to determine secret code length.");
             return;
         }
 
         // 2) Learn global and remaining counts of each letter (remaining is used to help prune letter tests)
         int[] globalCount = new int[6], remaining = new int[6];
-        remaining[order('A')] = globalCount[order('A')] = lastLenScore; // We already did "AAAA...A" when detecting L; reuse that result
+        remaining[order('A')] = globalCount[order('A')] = matchedA; // We already did "AAAA...A" when detecting correctLength; reuse that result
         for (char c : ALPH) {
             if (c == 'A') continue;
-            String codeGuess = String.valueOf(c).repeat(L);
+            String codeGuess = String.valueOf(c).repeat(correctLength);
             int matched = code.guess(codeGuess);
-            if (matched == L) { // If matched = L then we have found the secret code
+            if (matched == correctLength) { // If matched = correctLength then we have found the secret code
                 System.out.println(codeGuess);
                 return;
             }
@@ -59,12 +61,12 @@ public class SecretCodeGuesser {
             if (globalCount[order(c)] > globalCount[order(baseline)]) baseline = c;
         }
 
-        char[] cur = new char[L];
-        for (int i = 0; i < L; i++) cur[i] = baseline;
-        int k = globalCount[order(baseline)]; // current number (baseline) of exact matches
+        char[] cur = new char[correctLength];
+        for (int i = 0; i < correctLength; i++) cur[i] = baseline;
+        int currentMatchedResult = globalCount[order(baseline)]; // current number (baseline) of exact matches
 
         // 4) Resolve each position by mutating exactly one index at a time
-        for (int i = 0; i < L; i++) {
+        for (int i = 0; i < correctLength; i++) {
             char original = cur[i];
 
             // Try letters in a good order:
@@ -91,23 +93,23 @@ public class SecretCodeGuesser {
                 tried[bestIdx] = true;
                 cur[i] = ALPH[bestIdx];
 
-                int r = code.guess(new String(cur));
+                int newMatchedResult = code.guess(new String(cur));
 
-                if (r > k) {  // Found the correct letter for this position
-                    k = r;
+                if (newMatchedResult > currentMatchedResult) {  // Found the correct letter for this position
+                    currentMatchedResult = newMatchedResult;
                     positionLocked = true;
                     remaining[order(cur[i])]--;
-                    if (k == L) { // solved early
+                    if (currentMatchedResult == correctLength) { // solved early
                         System.out.println(new String(cur));
                         return;
                     }
                     break;
-                } else if (r < k) { // Original letter at i was correct; revert and lock
+                } else if (newMatchedResult < currentMatchedResult) { // Original letter at i was correct; revert and lock
                     cur[i] = original;
                     positionLocked = true;
                     remaining[order(original)]--;
                     break;
-                } else {  // r == k: candidate is not correct here; revert and keep trying
+                } else {  // newMatchedResult == currentMatchedResult: candidate is not correct here; revert and keep trying
                     cur[i] = original;
                 }
             }
