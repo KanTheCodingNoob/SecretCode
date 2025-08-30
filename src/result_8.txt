@@ -1,0 +1,1000 @@
+Number of guesses: 25
+CXAXAAAC
+Number of guesses: 27
+XIUCXAIX
+Number of guesses: 26
+CIXCXIXB
+Number of guesses: 25
+IIXBBAUI
+Number of guesses: 32
+IUXBIABC
+Number of guesses: 27
+BCUCXUBA
+Number of guesses: 26
+BUUBCUBA
+Number of guesses: 27
+XCBUXXCA
+Number of guesses: 29
+AIIUUXUB
+Number of guesses: 25
+UXAAUAAU
+Number of guesses: 29
+IACIUCBA
+Number of guesses: 24
+BXCXCBIX
+Number of guesses: 24
+BUAUCBUU
+Number of guesses: 27
+CCABUIXC
+Number of guesses: 25
+BIXXXIXU
+Number of guesses: 26
+BCAXAUUA
+Number of guesses: 27
+AUCXAXIA
+Number of guesses: 25
+CIUXIAUA
+Number of guesses: 28
+AIACCAUB
+Number of guesses: 25
+XXBXBIXB
+Number of guesses: 30
+UIXUABUB
+Number of guesses: 26
+BBIIXIAA
+Number of guesses: 27
+XAAACUIU
+Number of guesses: 24
+UUCXXCXX
+Number of guesses: 26
+UUXAUAXC
+Number of guesses: 27
+AXUAACCX
+Number of guesses: 22
+XXXCIBBB
+Number of guesses: 28
+XAABICAC
+Number of guesses: 27
+XAUCCBXX
+Number of guesses: 25
+CCBCBCIB
+Number of guesses: 25
+UACUAXAU
+Number of guesses: 26
+XCIIUCXU
+Number of guesses: 29
+XIAXCXBC
+Number of guesses: 24
+UUUBXCXX
+Number of guesses: 27
+CAABXCCX
+Number of guesses: 26
+IUCACCCU
+Number of guesses: 27
+UXXIBIAA
+Number of guesses: 27
+XACXUCCA
+Number of guesses: 26
+XAAIIBAX
+Number of guesses: 30
+BUIABICC
+Number of guesses: 24
+UBBAIUCU
+Number of guesses: 27
+BIIICIAB
+Number of guesses: 25
+XCBBCXXU
+Number of guesses: 27
+BAXXCUBI
+Number of guesses: 24
+IBBXCUCC
+Number of guesses: 26
+BBXAUUAB
+Number of guesses: 29
+XBAAAICB
+Number of guesses: 28
+UCBXUCUB
+Number of guesses: 23
+BBCCBCXC
+Number of guesses: 28
+UIBXIBCB
+Number of guesses: 27
+XBBBIXXA
+Number of guesses: 28
+UUXUAAIB
+Number of guesses: 24
+UBUIXUIU
+Number of guesses: 25
+UBCBXCUB
+Number of guesses: 28
+BCIIBCUA
+Number of guesses: 31
+ABUIBACX
+Number of guesses: 27
+BCXUBAIB
+Number of guesses: 25
+UIIIXBXU
+Number of guesses: 27
+XCXXBCIB
+Number of guesses: 27
+UAXAUIXA
+Number of guesses: 23
+BIIIBBIB
+Number of guesses: 30
+ICAXUBUI
+Number of guesses: 28
+XCCCIBAU
+Number of guesses: 24
+CCCCAUIC
+Number of guesses: 23
+UBXAAAUA
+Number of guesses: 25
+CCXXCACI
+Number of guesses: 25
+CAUAAXIA
+Number of guesses: 26
+AUAACCCI
+Number of guesses: 32
+IAUCXUXB
+Number of guesses: 28
+BXCXUIXA
+Number of guesses: 25
+XCAXUCUC
+Number of guesses: 23
+BBXBBABB
+Number of guesses: 29
+CXIIAUBI
+Number of guesses: 24
+CABBUXAA
+Number of guesses: 27
+BUCAUBCX
+Number of guesses: 26
+CICCAAIX
+Number of guesses: 30
+CIXACUBX
+Number of guesses: 28
+UBBAABXC
+Number of guesses: 27
+XIBAIIIC
+Number of guesses: 28
+IBIUAUUB
+Number of guesses: 23
+XBXXXXUX
+Number of guesses: 29
+BUACXCAB
+Number of guesses: 27
+BAAUXBIA
+Number of guesses: 25
+UBUUBUXB
+Number of guesses: 27
+XBXAIAUC
+Number of guesses: 26
+UIAAUBAU
+Number of guesses: 21
+IUXUIUUU
+Number of guesses: 25
+BIXCIBBU
+Number of guesses: 30
+XXUXBCAB
+Number of guesses: 29
+XUIICXAX
+Number of guesses: 28
+UACXABXX
+Number of guesses: 24
+XUUCUBXU
+Number of guesses: 27
+CBAUIUII
+Number of guesses: 23
+XIUXCUII
+Number of guesses: 26
+CXCCBABX
+Number of guesses: 30
+UBXCUBIA
+Number of guesses: 24
+BCXCBCXB
+Number of guesses: 24
+XUBXCAUC
+Number of guesses: 30
+BIXUUAUB
+Number of guesses: 24
+BICICIXI
+Number of guesses: 27
+IUXIIBUC
+Number of guesses: 29
+IAUCCABU
+Number of guesses: 25
+CBUCBAXU
+Number of guesses: 25
+XBIABBAB
+Number of guesses: 27
+BBAXXCBA
+Number of guesses: 24
+AAIIIUUI
+Number of guesses: 25
+UUXXBUXC
+Number of guesses: 24
+AUXCIXUU
+Number of guesses: 28
+CBUIBAXU
+Number of guesses: 28
+UABAIIIB
+Number of guesses: 28
+BXIAUXXB
+Number of guesses: 26
+AIAAXCUI
+Number of guesses: 24
+BAAIIBAB
+Number of guesses: 26
+CACIACII
+Number of guesses: 29
+CIAXXIXB
+Number of guesses: 26
+BABUBXCU
+Number of guesses: 30
+CAUIBCAB
+Number of guesses: 26
+CUCAICUX
+Number of guesses: 27
+UCBXXACC
+Number of guesses: 24
+XACAUXUU
+Number of guesses: 27
+BUUUXBAA
+Number of guesses: 26
+XBAXCABB
+Number of guesses: 25
+BICUUBUU
+Number of guesses: 26
+ABICXXBB
+Number of guesses: 26
+BBUUUXII
+Number of guesses: 25
+UABXUBBI
+Number of guesses: 29
+IUUCBUUA
+Number of guesses: 29
+CBUIIBAU
+Number of guesses: 29
+BAXIUBXA
+Number of guesses: 27
+XUACBACB
+Number of guesses: 27
+BIXIXUXA
+Number of guesses: 27
+BAAIXCBX
+Number of guesses: 27
+UCBABAXB
+Number of guesses: 26
+BUXUXXXA
+Number of guesses: 25
+ACABIBCI
+Number of guesses: 22
+UAAUAXUU
+Number of guesses: 27
+BXXXUIXC
+Number of guesses: 25
+XUXUBXUC
+Number of guesses: 24
+AACIUXCC
+Number of guesses: 26
+ABCXCBXI
+Number of guesses: 27
+UXAABCAX
+Number of guesses: 27
+IAXUIBXU
+Number of guesses: 27
+ICAUCXBB
+Number of guesses: 25
+BAUXAIII
+Number of guesses: 27
+BAUBBAXI
+Number of guesses: 27
+BCCAXBBA
+Number of guesses: 31
+IXABUCBC
+Number of guesses: 26
+ABXBXIAU
+Number of guesses: 26
+CUXXUBIU
+Number of guesses: 28
+AXAUCIXI
+Number of guesses: 24
+UIBCCUII
+Number of guesses: 25
+IBXXUUII
+Number of guesses: 28
+BUUXIUAC
+Number of guesses: 28
+IBCXCABI
+Number of guesses: 26
+CCBAUCXI
+Number of guesses: 28
+UBBBACCX
+Number of guesses: 24
+BUBCAUXU
+Number of guesses: 30
+UCABBUCA
+Number of guesses: 26
+IBIIUIUX
+Number of guesses: 24
+UXAIIXUI
+Number of guesses: 26
+IXIIICAC
+Number of guesses: 30
+CCAXUUBI
+Number of guesses: 25
+CCBXUAIA
+Number of guesses: 29
+XUBXXAIA
+Number of guesses: 29
+UBCIIBBX
+Number of guesses: 28
+ACBAXUIC
+Number of guesses: 27
+XCCUXXCA
+Number of guesses: 27
+AIBCUXIC
+Number of guesses: 28
+XBCABAIC
+Number of guesses: 25
+BIBUIUUC
+Number of guesses: 28
+AABUBIAX
+Number of guesses: 26
+AUXXAIXA
+Number of guesses: 24
+UIXUBUUU
+Number of guesses: 23
+IBBCUXII
+Number of guesses: 26
+IBBUXXIB
+Number of guesses: 25
+UUXCUUCI
+Number of guesses: 33
+BICXAUBU
+Number of guesses: 25
+IAAUUBAA
+Number of guesses: 28
+ACXAAIUB
+Number of guesses: 26
+ABICBABC
+Number of guesses: 27
+XXCABCBC
+Number of guesses: 26
+BXXAUAAB
+Number of guesses: 25
+ACUXCXXC
+Number of guesses: 26
+XUCAUUIX
+Number of guesses: 27
+IAABIXCU
+Number of guesses: 24
+XIAICXBB
+Number of guesses: 26
+IABIIIUX
+Number of guesses: 26
+BIIBXUIX
+Number of guesses: 27
+XIUCIAUU
+Number of guesses: 27
+CXUAICAU
+Number of guesses: 26
+ABBBIIBC
+Number of guesses: 29
+IBAXBXBC
+Number of guesses: 27
+ABCBIAXU
+Number of guesses: 28
+XCCAACUB
+Number of guesses: 25
+IXAABUXX
+Number of guesses: 24
+BIAIAXUI
+Number of guesses: 25
+ACBXUCUU
+Number of guesses: 24
+CBICBIBU
+Number of guesses: 26
+UXBXAUCA
+Number of guesses: 28
+AIIUXCXU
+Number of guesses: 28
+UICBXAIC
+Number of guesses: 23
+IXAIXXUX
+Number of guesses: 24
+XIUIAXIU
+Number of guesses: 24
+UAUUACCU
+Number of guesses: 29
+XIAICCUU
+Number of guesses: 26
+CUUXAAXX
+Number of guesses: 27
+BXAAAUUB
+Number of guesses: 25
+CXBACIAX
+Number of guesses: 27
+UXBUUBIC
+Number of guesses: 24
+IIBICIIX
+Number of guesses: 26
+CCIUCCXI
+Number of guesses: 29
+CXCBAUBA
+Number of guesses: 27
+CBIUXBBI
+Number of guesses: 25
+IIUAAIIU
+Number of guesses: 23
+IUCBBIUB
+Number of guesses: 26
+BCBABIAA
+Number of guesses: 29
+AAXUUIBX
+Number of guesses: 25
+UXXIICUX
+Number of guesses: 29
+XCIBXAXB
+Number of guesses: 25
+XCUCUXUI
+Number of guesses: 22
+XIUXXUUU
+Number of guesses: 26
+AUBUACAI
+Number of guesses: 26
+BCBXICBX
+Number of guesses: 29
+IBUXABBA
+Number of guesses: 26
+CUIUCCBU
+Number of guesses: 25
+UUBIUIIX
+Number of guesses: 27
+BUCIXIAA
+Number of guesses: 25
+UIAIBUXI
+Number of guesses: 24
+UBAAXUIA
+Number of guesses: 29
+IIBUCBIA
+Number of guesses: 27
+CIIUBIBC
+Number of guesses: 31
+BBUCAXXI
+Number of guesses: 27
+XAAACCUU
+Number of guesses: 26
+IBAUAAUI
+Number of guesses: 30
+CUBAICAX
+Number of guesses: 25
+XAIBAAIX
+Number of guesses: 27
+XICBBIBI
+Number of guesses: 24
+IUUBUICU
+Number of guesses: 28
+XICBAUCI
+Number of guesses: 27
+UXUCXBUC
+Number of guesses: 31
+ACIXUUXB
+Number of guesses: 28
+IUUBIXIX
+Number of guesses: 27
+ICAXCAAU
+Number of guesses: 27
+ABCXAAIX
+Number of guesses: 28
+CBIBAUAU
+Number of guesses: 23
+UAAAUUIU
+Number of guesses: 28
+UXAUUAIB
+Number of guesses: 26
+CCAIICXU
+Number of guesses: 26
+BBIBIUBC
+Number of guesses: 28
+CCIUAICX
+Number of guesses: 26
+UCXUIUUI
+Number of guesses: 27
+BIBIBAAC
+Number of guesses: 27
+IUIBUUBC
+Number of guesses: 28
+CXBIACAI
+Number of guesses: 24
+UIIIXCUI
+Number of guesses: 25
+XXXCIBIC
+Number of guesses: 25
+BCUXCIBU
+Number of guesses: 27
+IIACBUXX
+Number of guesses: 28
+UBAIIAIC
+Number of guesses: 24
+CACIAAIA
+Number of guesses: 26
+IXAAXXIC
+Number of guesses: 29
+IXXBUXAB
+Number of guesses: 25
+XCICXCXI
+Number of guesses: 31
+UBBABIXC
+Number of guesses: 24
+IBUIIXUI
+Number of guesses: 28
+IUICCIBX
+Number of guesses: 27
+ABXACAUC
+Number of guesses: 25
+UAXCUBIB
+Number of guesses: 24
+UUUIBICU
+Number of guesses: 31
+AUXUIXIB
+Number of guesses: 26
+IAABIIBU
+Number of guesses: 23
+UCCUBXUC
+Number of guesses: 30
+BCUUIIAB
+Number of guesses: 29
+CIIUBBXX
+Number of guesses: 28
+AUUCBAAI
+Number of guesses: 26
+XBIUCIUU
+Number of guesses: 27
+XCAXUAAB
+Number of guesses: 25
+IUICAUXI
+Number of guesses: 26
+ABCXAAAX
+Number of guesses: 29
+UCBUCIIA
+Number of guesses: 29
+AAUIICAX
+Number of guesses: 30
+BUBXCAAC
+Number of guesses: 26
+UBBICIXI
+Number of guesses: 25
+XAIBBXUX
+Number of guesses: 28
+AAIAUBUB
+Number of guesses: 25
+XXBXBIXC
+Number of guesses: 24
+IBUXUIXX
+Number of guesses: 27
+IIIBUUCB
+Number of guesses: 29
+ABUIIUBC
+Number of guesses: 24
+IXCICICI
+Number of guesses: 27
+BCCIUAUI
+Number of guesses: 27
+CBAAUICB
+Number of guesses: 24
+CBIIIBUB
+Number of guesses: 27
+AXCUIXXI
+Number of guesses: 26
+BCXCUCCB
+Number of guesses: 28
+BXUIUBBC
+Number of guesses: 30
+BCXAIXBA
+Number of guesses: 26
+BAACAXBU
+Number of guesses: 23
+CUIIIXII
+Number of guesses: 29
+CXIUBAIA
+Number of guesses: 26
+XAIIAUAX
+Number of guesses: 23
+XIIIIBII
+Number of guesses: 28
+UCAIXUUA
+Number of guesses: 26
+IBAAXBAI
+Number of guesses: 26
+CUCCIBBC
+Number of guesses: 28
+AICBAXBC
+Number of guesses: 28
+ICIUCBUX
+Number of guesses: 25
+XCCICCXX
+Number of guesses: 25
+UIUXCCUC
+Number of guesses: 28
+IUIIUABC
+Number of guesses: 24
+CXXCBXAC
+Number of guesses: 25
+XIXBXIXI
+Number of guesses: 29
+IUAUAXIX
+Number of guesses: 28
+XACXBIIX
+Number of guesses: 27
+UUABICUX
+Number of guesses: 26
+IXAUIIUX
+Number of guesses: 25
+XCXIBCIC
+Number of guesses: 25
+BCXBUBCB
+Number of guesses: 27
+XAIAUAUI
+Number of guesses: 31
+CIUBIXAB
+Number of guesses: 28
+UUUBIXCC
+Number of guesses: 24
+BABAXBBI
+Number of guesses: 24
+CIIIUBCC
+Number of guesses: 27
+AXICBUIB
+Number of guesses: 24
+IIIIBBXU
+Number of guesses: 27
+BXCBCUBU
+Number of guesses: 24
+ABCAABAC
+Number of guesses: 30
+CXABIUUC
+Number of guesses: 28
+CUCIBIXB
+Number of guesses: 28
+IXIBCXXB
+Number of guesses: 26
+XABBIACA
+Number of guesses: 25
+XXUCCXXC
+Number of guesses: 27
+BXBXIIBA
+Number of guesses: 31
+XIUCBAAU
+Number of guesses: 29
+UIUBABIX
+Number of guesses: 25
+UXABBAUU
+Number of guesses: 27
+IBXAIUIA
+Number of guesses: 23
+IICAIXAA
+Number of guesses: 24
+ABUBAAXU
+Number of guesses: 25
+BBUXXCIX
+Number of guesses: 25
+IXBCBXUB
+Number of guesses: 23
+ABXCUIII
+Number of guesses: 29
+CXCIUXCB
+Number of guesses: 27
+CAUACIUI
+Number of guesses: 29
+UXBIACXI
+Number of guesses: 27
+CAUIBACI
+Number of guesses: 25
+BCXAIXBB
+Number of guesses: 25
+XXXIIXXA
+Number of guesses: 27
+BIXUXAXA
+Number of guesses: 27
+IUCUUBIB
+Number of guesses: 23
+IBBAIIAA
+Number of guesses: 27
+AUIBUCAI
+Number of guesses: 26
+BIUXAUIA
+Number of guesses: 26
+UUCIIIIX
+Number of guesses: 29
+XBAIAICU
+Number of guesses: 27
+ACXAAAIB
+Number of guesses: 29
+IIXCCUBU
+Number of guesses: 30
+IXUCXAAC
+Number of guesses: 22
+BUIXIUUU
+Number of guesses: 27
+UXCACAIA
+Number of guesses: 25
+BCBICABI
+Number of guesses: 28
+CACXUCBU
+Number of guesses: 26
+BIXUBCBB
+Number of guesses: 27
+AXUIXCIU
+Number of guesses: 25
+AABBXBCU
+Number of guesses: 25
+BBIXBCXB
+Number of guesses: 30
+BIUBXXIA
+Number of guesses: 23
+CABICXII
+Number of guesses: 26
+BCCXUUXB
+Number of guesses: 27
+AXUXAUBI
+Number of guesses: 29
+AUACBIAB
+Number of guesses: 27
+UXIABIBB
+Number of guesses: 23
+UABBAXUU
+Number of guesses: 33
+UAIXACBA
+Number of guesses: 24
+CXXABXCX
+Number of guesses: 27
+XIAACBAA
+Number of guesses: 26
+IXCIBAXX
+Number of guesses: 30
+CUICXXXA
+Number of guesses: 28
+UACCACBB
+Number of guesses: 24
+UUAAAUBU
+Number of guesses: 30
+CUBAIAXI
+Number of guesses: 24
+ABXAXABB
+Number of guesses: 24
+BIICAIXI
+Number of guesses: 25
+BAXACUIA
+Number of guesses: 25
+BIBAXXBB
+Number of guesses: 27
+AIIICAAB
+Number of guesses: 28
+AXXICUCI
+Number of guesses: 26
+UIXCIICI
+Number of guesses: 26
+BCUIBXBU
+Number of guesses: 30
+AIIBXCUU
+Number of guesses: 32
+UUAIBAXC
+Number of guesses: 25
+BBXCBACB
+Number of guesses: 28
+BACIBUAU
+Number of guesses: 29
+BXUIUXAC
+Number of guesses: 22
+AXUXAUXX
+Number of guesses: 28
+CUABCICA
+Number of guesses: 28
+IUAAICUB
+Number of guesses: 26
+XUAUXBBX
+Number of guesses: 27
+UXIIUXBI
+Number of guesses: 24
+IIUICCUI
+Number of guesses: 24
+ACABXUUU
+Number of guesses: 27
+BCUACAAX
+Number of guesses: 26
+IBBCUXUI
+Number of guesses: 24
+CXAIUXCC
+Number of guesses: 29
+CBABUAXX
+Number of guesses: 24
+IBBBCCUB
+Number of guesses: 23
+ACCXCUAA
+Number of guesses: 24
+UUAUAXCU
+Number of guesses: 26
+XIBBABAA
+Number of guesses: 30
+UXXACBBI
+Number of guesses: 28
+ACXBCBUA
+Number of guesses: 26
+XAUCICXX
+Number of guesses: 24
+UUXBUACX
+Number of guesses: 28
+UCCAIXXA
+Number of guesses: 22
+CBCABCAA
+Number of guesses: 29
+UACBACII
+Number of guesses: 26
+ICIBABCC
+Number of guesses: 25
+AAAAIIIX
+Number of guesses: 30
+ACICBUXU
+Number of guesses: 28
+AIIUIBCX
+Number of guesses: 24
+XICIAXCC
+Number of guesses: 27
+CIUUIAXU
+Number of guesses: 26
+CBAAICBI
+Number of guesses: 24
+BCBBCBCI
+Number of guesses: 24
+IIIUAICU
+Number of guesses: 25
+XCBCAAXI
+Number of guesses: 23
+CCIBIUBB
+Number of guesses: 26
+IUCUAIXA
+Number of guesses: 24
+BBXIXAIX
+Number of guesses: 24
+XIAAAIXA
+Number of guesses: 28
+CCXBBIAI
+Number of guesses: 31
+CBUBXCAA
+Number of guesses: 28
+XIBAAUBI
+Number of guesses: 25
+IIIAAXAU
+Number of guesses: 29
+XXABAICC
+Number of guesses: 24
+XUBUUXBB
+Number of guesses: 29
+BUUCAIXB
+Number of guesses: 26
+XBUIUIUI
+Number of guesses: 27
+CUXIUXIC
+Number of guesses: 27
+AUBCCBXU
+Number of guesses: 30
+AXICUXIB
+Number of guesses: 25
+AAIUXCIU
+Number of guesses: 27
+AUIBAUXI
+Number of guesses: 24
+XUBUABBB
+Number of guesses: 29
+AUACABIB
+Number of guesses: 26
+UIBUAABA
+Number of guesses: 26
+CCBAUBUB
+Number of guesses: 28
+BAUXXCIA
+Number of guesses: 28
+UUUCAXII
+Number of guesses: 28
+UIAUXBIA
+Number of guesses: 29
+IAXBCBUX
+Number of guesses: 33
+IUIAXXCB
+Number of guesses: 31
+CUIBXBIA
+Number of guesses: 23
+CCXACBBB
+Number of guesses: 28
+BCAIXUBI
+Number of guesses: 27
+UCIACXAU
+Number of guesses: 25
+AABBAUCU
+Number of guesses: 27
+AACAXCUU
+Number of guesses: 27
+BIXICCAI
+Number of guesses: 29
+XBACUAAU
+Number of guesses: 26
+UBIBIUIA
+Number of guesses: 24
+IXXACXAA
+Number of guesses: 27
+AXXIBIIU
+Number of guesses: 30
+IAIUIXBC
+Number of guesses: 29
+AXCIBAAI
+Number of guesses: 28
+XAIAABXB
+Number of guesses: 26
+BCUCICCI
+Number of guesses: 25
+AUBICIUU
+Number of guesses: 27
+AXCCXXBI
+Number of guesses: 25
+CCUXXCXU
+Number of guesses: 32
+CXAXIBUU
+Number of guesses: 27
+IUUICUCX
+Number of guesses: 25
+XUBCUIUX
+Number of guesses: 28
+BUAAXIBA
+Number of guesses: 28
+IIIBUBCA
+Number of guesses: 31
+XAUIAUIB
+Number of guesses: 27
+CCUBUIXB
+Number of guesses: 27
+AACBIXIC
+Number of guesses: 22
+IBBCXIBB
+Number of guesses: 26
+AIUUAICA
+Number of guesses: 24
+UUUUAXUI
+Number of guesses: 26
+AXACUXAX
+Number of guesses: 28
+UBBBCXCI
+Number of guesses: 27
+AAUUBABX
+Number of guesses: 27
+XAXUBUBI
+Number of guesses: 26
+CCUUXXXU
+Number of guesses: 24
+UXCAUCUU
+Number of guesses: 26
+BXIXUCUU
+Number of guesses: 26
+IIAICBCU
+Number of guesses: 24
+UABCAAXU
+Number of guesses: 28
+XBUXIUXI
+Number of guesses: 30
+XIUUBACC
+Number of guesses: 26
+BAABBIII
+Number of guesses: 25
+XAAAABUX
+Number of guesses: 25
+AABCAXXA
+Number of guesses: 25
+CAXBXCUB
+Number of guesses: 28
+AIUXBIIB
+Number of guesses: 24
+ACBBXCBB
+Number of guesses: 27
+AXAAIXAB
+Number of guesses: 22
+BAUBAUAA

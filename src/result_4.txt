@@ -1,0 +1,1000 @@
+Number of guesses: 24
+CCXX
+Number of guesses: 23
+AXCX
+Number of guesses: 23
+CCUC
+Number of guesses: 26
+AIUX
+Number of guesses: 24
+UCIC
+Number of guesses: 24
+IAIX
+Number of guesses: 23
+XAUA
+Number of guesses: 22
+BCUU
+Number of guesses: 24
+CCAU
+Number of guesses: 25
+ICXB
+Number of guesses: 24
+IXUA
+Number of guesses: 22
+IIBB
+Number of guesses: 24
+CUIB
+Number of guesses: 25
+CBUI
+Number of guesses: 23
+XBXB
+Number of guesses: 24
+AUBA
+Number of guesses: 25
+XUCA
+Number of guesses: 24
+XCCI
+Number of guesses: 23
+CBAA
+Number of guesses: 23
+ABIA
+Number of guesses: 23
+ABUU
+Number of guesses: 25
+CABU
+Number of guesses: 25
+CAIX
+Number of guesses: 24
+XBXA
+Number of guesses: 25
+ABXC
+Number of guesses: 23
+ABCC
+Number of guesses: 23
+IBIB
+Number of guesses: 25
+BCAX
+Number of guesses: 25
+XIIC
+Number of guesses: 22
+CIBB
+Number of guesses: 24
+CAAU
+Number of guesses: 24
+IXUB
+Number of guesses: 21
+ABBB
+Number of guesses: 23
+ICXX
+Number of guesses: 23
+IICI
+Number of guesses: 25
+AIAB
+Number of guesses: 27
+UXAC
+Number of guesses: 24
+CAAC
+Number of guesses: 22
+IUII
+Number of guesses: 23
+ACUA
+Number of guesses: 21
+UBBB
+Number of guesses: 24
+IXAI
+Number of guesses: 25
+AIXU
+Number of guesses: 22
+AIXX
+Number of guesses: 26
+AXIC
+Number of guesses: 23
+ABUU
+Number of guesses: 23
+UUBU
+Number of guesses: 24
+AXAX
+Number of guesses: 23
+CBAA
+Number of guesses: 24
+BBBU
+Number of guesses: 27
+IXBC
+Number of guesses: 22
+UUXX
+Number of guesses: 25
+IUXC
+Number of guesses: 22
+BABB
+Number of guesses: 25
+UIUA
+Number of guesses: 26
+UABX
+Number of guesses: 22
+CUXX
+Number of guesses: 25
+XCCA
+Number of guesses: 21
+BXXX
+Number of guesses: 25
+AXXB
+Number of guesses: 22
+UUII
+Number of guesses: 24
+BXXC
+Number of guesses: 26
+IUAX
+Number of guesses: 25
+IIXB
+Number of guesses: 23
+CAII
+Number of guesses: 24
+XBBI
+Number of guesses: 24
+AACU
+Number of guesses: 25
+UIIX
+Number of guesses: 24
+CCAI
+Number of guesses: 24
+IXUC
+Number of guesses: 26
+BIUA
+Number of guesses: 24
+XCAC
+Number of guesses: 25
+UCCA
+Number of guesses: 25
+IUXB
+Number of guesses: 24
+UUUB
+Number of guesses: 24
+BAXU
+Number of guesses: 23
+AICI
+Number of guesses: 25
+BXBA
+Number of guesses: 25
+AUBC
+Number of guesses: 22
+UUAA
+Number of guesses: 22
+ACUU
+Number of guesses: 24
+AICB
+Number of guesses: 23
+AAUA
+Number of guesses: 22
+UBUU
+Number of guesses: 24
+CBCA
+Number of guesses: 24
+XIXI
+Number of guesses: 25
+ABUI
+Number of guesses: 22
+XIBB
+Number of guesses: 24
+IXAX
+Number of guesses: 25
+UCIA
+Number of guesses: 24
+ACBI
+Number of guesses: 25
+AAUB
+Number of guesses: 25
+XCAI
+Number of guesses: 23
+AIUI
+Number of guesses: 24
+BBBA
+Number of guesses: 24
+IAXA
+Number of guesses: 26
+XBUA
+Number of guesses: 23
+ABCC
+Number of guesses: 24
+UABU
+Number of guesses: 26
+IABC
+Number of guesses: 23
+CBUU
+Number of guesses: 26
+CIBA
+Number of guesses: 23
+IICI
+Number of guesses: 26
+UXCB
+Number of guesses: 23
+BAXA
+Number of guesses: 23
+CIXI
+Number of guesses: 23
+CXUB
+Number of guesses: 22
+UUCC
+Number of guesses: 22
+XUCC
+Number of guesses: 27
+UCBA
+Number of guesses: 25
+XUXC
+Number of guesses: 25
+XIIA
+Number of guesses: 25
+CUCB
+Number of guesses: 24
+BACX
+Number of guesses: 22
+XAXX
+Number of guesses: 26
+UABX
+Number of guesses: 25
+UIIA
+Number of guesses: 25
+BXUI
+Number of guesses: 25
+CUCX
+Number of guesses: 27
+UBXC
+Number of guesses: 24
+UIAI
+Number of guesses: 24
+XABA
+Number of guesses: 26
+BXAC
+Number of guesses: 26
+UCXI
+Number of guesses: 27
+AUXC
+Number of guesses: 23
+XAII
+Number of guesses: 25
+BCUI
+Number of guesses: 22
+AICC
+Number of guesses: 24
+ACBC
+Number of guesses: 23
+IXUI
+Number of guesses: 26
+ICBX
+Number of guesses: 23
+AABA
+Number of guesses: 24
+IBIA
+Number of guesses: 24
+BCBI
+Number of guesses: 24
+UXXU
+Number of guesses: 24
+ABBI
+Number of guesses: 24
+BABA
+Number of guesses: 24
+CUXB
+Number of guesses: 22
+BCII
+Number of guesses: 24
+CAXU
+Number of guesses: 21
+AXXX
+Number of guesses: 24
+ACCX
+Number of guesses: 24
+IXBI
+Number of guesses: 25
+CCUA
+Number of guesses: 22
+UUII
+Number of guesses: 25
+XCAI
+Number of guesses: 25
+CXAB
+Number of guesses: 24
+XIAU
+Number of guesses: 25
+CUCB
+Number of guesses: 22
+XUAA
+Number of guesses: 24
+XICU
+Number of guesses: 24
+CCUU
+Number of guesses: 22
+AUXX
+Number of guesses: 24
+IXUA
+Number of guesses: 22
+UXUU
+Number of guesses: 25
+CBAI
+Number of guesses: 23
+ABCA
+Number of guesses: 25
+XUCB
+Number of guesses: 24
+CBXI
+Number of guesses: 25
+CUCX
+Number of guesses: 24
+ACAC
+Number of guesses: 25
+UIUA
+Number of guesses: 24
+BABC
+Number of guesses: 21
+IAAA
+Number of guesses: 24
+AUCA
+Number of guesses: 25
+BAUC
+Number of guesses: 23
+BCUC
+Number of guesses: 24
+CUXA
+Number of guesses: 23
+ABCC
+Number of guesses: 24
+ABIU
+Number of guesses: 24
+CIBI
+Number of guesses: 24
+UUXI
+Number of guesses: 26
+BIUC
+Number of guesses: 18
+XXXX
+Number of guesses: 24
+AAAX
+Number of guesses: 24
+XCUB
+Number of guesses: 24
+UIIU
+Number of guesses: 26
+XBUC
+Number of guesses: 24
+BCIU
+Number of guesses: 27
+UIBX
+Number of guesses: 24
+XCIB
+Number of guesses: 23
+BAIB
+Number of guesses: 22
+BUAA
+Number of guesses: 23
+CIUI
+Number of guesses: 22
+BCXX
+Number of guesses: 23
+IXUI
+Number of guesses: 23
+CBXC
+Number of guesses: 24
+UXAU
+Number of guesses: 25
+UIIC
+Number of guesses: 23
+XAUU
+Number of guesses: 25
+BBIA
+Number of guesses: 24
+AIAU
+Number of guesses: 23
+XXBX
+Number of guesses: 24
+XAXC
+Number of guesses: 26
+CIUX
+Number of guesses: 25
+UUAB
+Number of guesses: 25
+AIAB
+Number of guesses: 22
+IUAA
+Number of guesses: 24
+IAXA
+Number of guesses: 24
+BBCX
+Number of guesses: 25
+BCUX
+Number of guesses: 25
+ICXA
+Number of guesses: 23
+ABUB
+Number of guesses: 23
+CUUC
+Number of guesses: 25
+CXUI
+Number of guesses: 25
+CCUB
+Number of guesses: 25
+XCCB
+Number of guesses: 25
+XUCI
+Number of guesses: 24
+BIIX
+Number of guesses: 23
+CAXA
+Number of guesses: 25
+BUBA
+Number of guesses: 24
+AAIU
+Number of guesses: 24
+AAUU
+Number of guesses: 23
+ABIA
+Number of guesses: 23
+XCUC
+Number of guesses: 23
+XBII
+Number of guesses: 25
+XIXA
+Number of guesses: 24
+XIAI
+Number of guesses: 27
+UAIX
+Number of guesses: 25
+BBXA
+Number of guesses: 24
+IBAB
+Number of guesses: 23
+CBXC
+Number of guesses: 23
+ABUA
+Number of guesses: 24
+CCII
+Number of guesses: 23
+IAUA
+Number of guesses: 25
+AXAB
+Number of guesses: 22
+UUCC
+Number of guesses: 27
+UIBC
+Number of guesses: 24
+AXCA
+Number of guesses: 22
+IUXX
+Number of guesses: 23
+UXUX
+Number of guesses: 24
+UCCU
+Number of guesses: 22
+XXCC
+Number of guesses: 24
+CIAC
+Number of guesses: 24
+CAIB
+Number of guesses: 24
+ABBI
+Number of guesses: 24
+BBBC
+Number of guesses: 25
+CXCB
+Number of guesses: 25
+UXXA
+Number of guesses: 26
+XBIC
+Number of guesses: 23
+BAXA
+Number of guesses: 26
+IABX
+Number of guesses: 24
+BBCI
+Number of guesses: 22
+BIXX
+Number of guesses: 25
+AAIC
+Number of guesses: 21
+XAAA
+Number of guesses: 24
+CCBU
+Number of guesses: 24
+XCXU
+Number of guesses: 25
+ICCX
+Number of guesses: 23
+AXIA
+Number of guesses: 24
+UIBU
+Number of guesses: 23
+CXXC
+Number of guesses: 21
+BAAA
+Number of guesses: 24
+AAXI
+Number of guesses: 23
+AIUA
+Number of guesses: 27
+UXBA
+Number of guesses: 25
+XCXB
+Number of guesses: 24
+XUCX
+Number of guesses: 24
+UUCX
+Number of guesses: 23
+CBUU
+Number of guesses: 25
+CUCA
+Number of guesses: 27
+UBCA
+Number of guesses: 25
+UXIC
+Number of guesses: 22
+AXII
+Number of guesses: 23
+AXIA
+Number of guesses: 24
+ABBX
+Number of guesses: 25
+CUBX
+Number of guesses: 24
+UIBU
+Number of guesses: 27
+UBXC
+Number of guesses: 24
+XUCU
+Number of guesses: 25
+XABI
+Number of guesses: 22
+CXBB
+Number of guesses: 27
+UIBC
+Number of guesses: 24
+UXUI
+Number of guesses: 24
+CIBU
+Number of guesses: 24
+XCXI
+Number of guesses: 25
+IBBX
+Number of guesses: 25
+IUUX
+Number of guesses: 26
+XIAC
+Number of guesses: 25
+BCAU
+Number of guesses: 22
+XUBB
+Number of guesses: 24
+XBCB
+Number of guesses: 24
+ABBA
+Number of guesses: 24
+BXXC
+Number of guesses: 23
+IXUI
+Number of guesses: 26
+UICB
+Number of guesses: 24
+XIBI
+Number of guesses: 24
+XICU
+Number of guesses: 24
+CCBU
+Number of guesses: 24
+AXXU
+Number of guesses: 24
+ACIU
+Number of guesses: 24
+ICCI
+Number of guesses: 25
+IIXB
+Number of guesses: 26
+CXBA
+Number of guesses: 24
+BBBI
+Number of guesses: 24
+IBIA
+Number of guesses: 22
+IAII
+Number of guesses: 25
+CABX
+Number of guesses: 24
+BIIX
+Number of guesses: 21
+AIII
+Number of guesses: 24
+BBII
+Number of guesses: 23
+IAUA
+Number of guesses: 23
+CAII
+Number of guesses: 24
+AAXI
+Number of guesses: 25
+AUBC
+Number of guesses: 25
+CUCA
+Number of guesses: 24
+AAAU
+Number of guesses: 23
+BXIB
+Number of guesses: 23
+UXAA
+Number of guesses: 24
+XCIB
+Number of guesses: 25
+CABI
+Number of guesses: 23
+UAUA
+Number of guesses: 24
+IIAU
+Number of guesses: 24
+XIXU
+Number of guesses: 24
+XBXC
+Number of guesses: 25
+IBAU
+Number of guesses: 22
+AXBB
+Number of guesses: 22
+BCUU
+Number of guesses: 24
+IIIA
+Number of guesses: 23
+BAXB
+Number of guesses: 23
+BIAI
+Number of guesses: 22
+AIBB
+Number of guesses: 23
+UBII
+Number of guesses: 22
+IUXX
+Number of guesses: 25
+IXXA
+Number of guesses: 23
+AAXA
+Number of guesses: 24
+UCUI
+Number of guesses: 24
+UXAX
+Number of guesses: 25
+XXAB
+Number of guesses: 23
+XAII
+Number of guesses: 24
+BXXA
+Number of guesses: 24
+IUAU
+Number of guesses: 25
+ICXU
+Number of guesses: 22
+BUII
+Number of guesses: 24
+ABBX
+Number of guesses: 21
+UXXX
+Number of guesses: 23
+UXIU
+Number of guesses: 24
+UUUI
+Number of guesses: 23
+BCAC
+Number of guesses: 24
+AIBA
+Number of guesses: 25
+BBUC
+Number of guesses: 24
+AUCA
+Number of guesses: 23
+UCBB
+Number of guesses: 25
+BCBA
+Number of guesses: 26
+BXUC
+Number of guesses: 24
+UBAB
+Number of guesses: 25
+XIXC
+Number of guesses: 25
+BBXA
+Number of guesses: 24
+CAXU
+Number of guesses: 27
+BIXC
+Number of guesses: 24
+AABU
+Number of guesses: 23
+UXCC
+Number of guesses: 26
+BXIC
+Number of guesses: 23
+UBCU
+Number of guesses: 25
+CABU
+Number of guesses: 25
+ICIA
+Number of guesses: 24
+ICUA
+Number of guesses: 25
+CICA
+Number of guesses: 24
+ABBA
+Number of guesses: 22
+BACC
+Number of guesses: 24
+BXXU
+Number of guesses: 24
+AUAU
+Number of guesses: 24
+UAIA
+Number of guesses: 23
+UCUC
+Number of guesses: 24
+XXII
+Number of guesses: 23
+XIUB
+Number of guesses: 24
+AABI
+Number of guesses: 23
+AXUX
+Number of guesses: 24
+BAAX
+Number of guesses: 25
+XBBA
+Number of guesses: 23
+CAIC
+Number of guesses: 24
+AXAX
+Number of guesses: 25
+IUIA
+Number of guesses: 25
+XIIB
+Number of guesses: 24
+UUUC
+Number of guesses: 23
+IBUB
+Number of guesses: 22
+CIAA
+Number of guesses: 25
+CUUA
+Number of guesses: 24
+CAIU
+Number of guesses: 25
+XUXI
+Number of guesses: 25
+UACB
+Number of guesses: 25
+UXXC
+Number of guesses: 24
+BUIB
+Number of guesses: 23
+BXCX
+Number of guesses: 26
+UCXI
+Number of guesses: 23
+UUBU
+Number of guesses: 25
+IBCU
+Number of guesses: 23
+UUIU
+Number of guesses: 24
+UUUB
+Number of guesses: 26
+UABC
+Number of guesses: 25
+CIXU
+Number of guesses: 27
+AUIC
+Number of guesses: 26
+XUBA
+Number of guesses: 24
+IIIB
+Number of guesses: 24
+IBIU
+Number of guesses: 26
+UACX
+Number of guesses: 25
+IBAU
+Number of guesses: 26
+UIAB
+Number of guesses: 22
+BIAA
+Number of guesses: 24
+AXXU
+Number of guesses: 24
+ICUB
+Number of guesses: 24
+CBCX
+Number of guesses: 25
+CBUI
+Number of guesses: 27
+UAIX
+Number of guesses: 24
+UBCB
+Number of guesses: 25
+AAUI
+Number of guesses: 25
+XUUB
+Number of guesses: 25
+CUCB
+Number of guesses: 22
+BXUU
+Number of guesses: 25
+UAAB
+Number of guesses: 24
+IUBU
+Number of guesses: 25
+CUUB
+Number of guesses: 24
+CXIU
+Number of guesses: 24
+BUUA
+Number of guesses: 24
+UIBI
+Number of guesses: 26
+ICBX
+Number of guesses: 24
+XCIA
+Number of guesses: 25
+UXXI
+Number of guesses: 23
+XBII
+Number of guesses: 24
+AXAI
+Number of guesses: 24
+CCAI
+Number of guesses: 23
+UCIU
+Number of guesses: 27
+AUIC
+Number of guesses: 22
+CXAA
+Number of guesses: 23
+UBAU
+Number of guesses: 25
+CCXB
+Number of guesses: 25
+IXBU
+Number of guesses: 24
+CIBU
+Number of guesses: 24
+BCXI
+Number of guesses: 22
+XBXX
+Number of guesses: 25
+IXIC
+Number of guesses: 23
+ACUC
+Number of guesses: 24
+UXXU
+Number of guesses: 24
+CUAC
+Number of guesses: 24
+XXAC
+Number of guesses: 24
+UBXB
+Number of guesses: 24
+AIBI
+Number of guesses: 23
+XCIX
+Number of guesses: 24
+XXAU
+Number of guesses: 26
+BCXA
+Number of guesses: 23
+ACXA
+Number of guesses: 23
+UACU
+Number of guesses: 25
+XXAB
+Number of guesses: 22
+IIXX
+Number of guesses: 24
+IBIU
+Number of guesses: 24
+UUCI
+Number of guesses: 25
+CBUI
+Number of guesses: 24
+BACX
+Number of guesses: 22
+CXUU
+Number of guesses: 26
+IAUX
+Number of guesses: 22
+CICC
+Number of guesses: 22
+UUAA
+Number of guesses: 23
+ICUI
+Number of guesses: 24
+IBAB
+Number of guesses: 27
+UBIX
+Number of guesses: 22
+XXCC
+Number of guesses: 24
+XCCU
+Number of guesses: 22
+AUII
+Number of guesses: 25
+BCAI
+Number of guesses: 24
+UXXU
+Number of guesses: 25
+XUCA
+Number of guesses: 26
+UAXI
+Number of guesses: 26
+UXAB
+Number of guesses: 22
+AIBB
+Number of guesses: 24
+BBCI
+Number of guesses: 22
+BAXX
+Number of guesses: 25
+UAAI
+Number of guesses: 26
+UABI
+Number of guesses: 23
+ABIB
+Number of guesses: 24
+AIBU
+Number of guesses: 24
+UXUI
+Number of guesses: 26
+BUAC
+Number of guesses: 24
+BXBU
+Number of guesses: 26
+XIBC
+Number of guesses: 23
+IAUI
+Number of guesses: 24
+XCUB
+Number of guesses: 25
+XUUA
+Number of guesses: 25
+CUCX
+Number of guesses: 24
+XIBX
+Number of guesses: 25
+CUBI
+Number of guesses: 25
+UACB
+Number of guesses: 25
+CICB
+Number of guesses: 25
+IICA
+Number of guesses: 25
+CAUX
+Number of guesses: 24
+CUIB
+Number of guesses: 23
+CABB
+Number of guesses: 25
+UIUB
+Number of guesses: 24
+BABA
+Number of guesses: 24
+UIBI
+Number of guesses: 26
+CXBA
+Number of guesses: 25
+UIUA
+Number of guesses: 25
+ABUC
+Number of guesses: 23
+BUCU
+Number of guesses: 24
+BAAU
+Number of guesses: 24
+UXAU
+Number of guesses: 24
+BABU
+Number of guesses: 24
+ICUB
+Number of guesses: 23
+BCIC
+Number of guesses: 24
+UUBI
+Number of guesses: 26
+BXIC

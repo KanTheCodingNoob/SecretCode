@@ -1,0 +1,1000 @@
+Number of guesses: 22
+I
+Number of guesses: 18
+A
+Number of guesses: 23
+U
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 20
+C
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 18
+A
+Number of guesses: 23
+U
+Number of guesses: 18
+A
+Number of guesses: 23
+U
+Number of guesses: 20
+C
+Number of guesses: 23
+U
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 20
+C
+Number of guesses: 20
+C
+Number of guesses: 23
+U
+Number of guesses: 18
+A
+Number of guesses: 20
+C
+Number of guesses: 19
+B
+Number of guesses: 18
+A
+Number of guesses: 22
+I
+Number of guesses: 19
+B
+Number of guesses: 20
+C
+Number of guesses: 22
+I
+Number of guesses: 23
+U
+Number of guesses: 21
+X
+Number of guesses: 18
+A
+Number of guesses: 22
+I
+Number of guesses: 23
+U
+Number of guesses: 23
+U
+Number of guesses: 19
+B
+Number of guesses: 21
+X
+Number of guesses: 20
+C
+Number of guesses: 23
+U
+Number of guesses: 18
+A
+Number of guesses: 21
+X
+Number of guesses: 19
+B
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 23
+U
+Number of guesses: 23
+U
+Number of guesses: 19
+B
+Number of guesses: 23
+U
+Number of guesses: 20
+C
+Number of guesses: 19
+B
+Number of guesses: 23
+U
+Number of guesses: 21
+X
+Number of guesses: 18
+A
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 18
+A
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 19
+B
+Number of guesses: 23
+U
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 22
+I
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 19
+B
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 19
+B
+Number of guesses: 20
+C
+Number of guesses: 18
+A
+Number of guesses: 23
+U
+Number of guesses: 18
+A
+Number of guesses: 23
+U
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 18
+A
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 19
+B
+Number of guesses: 21
+X
+Number of guesses: 19
+B
+Number of guesses: 19
+B
+Number of guesses: 23
+U
+Number of guesses: 22
+I
+Number of guesses: 20
+C
+Number of guesses: 18
+A
+Number of guesses: 21
+X
+Number of guesses: 20
+C
+Number of guesses: 18
+A
+Number of guesses: 18
+A
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 22
+I
+Number of guesses: 19
+B
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 20
+C
+Number of guesses: 18
+A
+Number of guesses: 22
+I
+Number of guesses: 21
+X
+Number of guesses: 20
+C
+Number of guesses: 22
+I
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 19
+B
+Number of guesses: 20
+C
+Number of guesses: 20
+C
+Number of guesses: 19
+B
+Number of guesses: 22
+I
+Number of guesses: 23
+U
+Number of guesses: 22
+I
+Number of guesses: 21
+X
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 19
+B
+Number of guesses: 18
+A
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 23
+U
+Number of guesses: 22
+I
+Number of guesses: 20
+C
+Number of guesses: 20
+C
+Number of guesses: 19
+B
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 23
+U
+Number of guesses: 21
+X
+Number of guesses: 18
+A
+Number of guesses: 22
+I
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 18
+A
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 20
+C
+Number of guesses: 18
+A
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 20
+C
+Number of guesses: 20
+C
+Number of guesses: 18
+A
+Number of guesses: 23
+U
+Number of guesses: 22
+I
+Number of guesses: 23
+U
+Number of guesses: 20
+C
+Number of guesses: 18
+A
+Number of guesses: 23
+U
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 19
+B
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 19
+B
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 18
+A
+Number of guesses: 22
+I
+Number of guesses: 23
+U
+Number of guesses: 23
+U
+Number of guesses: 20
+C
+Number of guesses: 19
+B
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 19
+B
+Number of guesses: 22
+I
+Number of guesses: 18
+A
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 21
+X
+Number of guesses: 18
+A
+Number of guesses: 21
+X
+Number of guesses: 18
+A
+Number of guesses: 22
+I
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 18
+A
+Number of guesses: 21
+X
+Number of guesses: 19
+B
+Number of guesses: 23
+U
+Number of guesses: 18
+A
+Number of guesses: 20
+C
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 19
+B
+Number of guesses: 19
+B
+Number of guesses: 18
+A
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 19
+B
+Number of guesses: 22
+I
+Number of guesses: 20
+C
+Number of guesses: 18
+A
+Number of guesses: 23
+U
+Number of guesses: 20
+C
+Number of guesses: 22
+I
+Number of guesses: 19
+B
+Number of guesses: 18
+A
+Number of guesses: 18
+A
+Number of guesses: 18
+A
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 22
+I
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 20
+C
+Number of guesses: 19
+B
+Number of guesses: 19
+B
+Number of guesses: 23
+U
+Number of guesses: 19
+B
+Number of guesses: 21
+X
+Number of guesses: 18
+A
+Number of guesses: 21
+X
+Number of guesses: 19
+B
+Number of guesses: 19
+B
+Number of guesses: 19
+B
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 23
+U
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 18
+A
+Number of guesses: 22
+I
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 19
+B
+Number of guesses: 23
+U
+Number of guesses: 19
+B
+Number of guesses: 22
+I
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 19
+B
+Number of guesses: 19
+B
+Number of guesses: 19
+B
+Number of guesses: 23
+U
+Number of guesses: 23
+U
+Number of guesses: 23
+U
+Number of guesses: 18
+A
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 18
+A
+Number of guesses: 18
+A
+Number of guesses: 18
+A
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 23
+U
+Number of guesses: 20
+C
+Number of guesses: 20
+C
+Number of guesses: 20
+C
+Number of guesses: 23
+U
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 20
+C
+Number of guesses: 18
+A
+Number of guesses: 20
+C
+Number of guesses: 23
+U
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 22
+I
+Number of guesses: 20
+C
+Number of guesses: 23
+U
+Number of guesses: 20
+C
+Number of guesses: 22
+I
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 18
+A
+Number of guesses: 22
+I
+Number of guesses: 19
+B
+Number of guesses: 20
+C
+Number of guesses: 20
+C
+Number of guesses: 23
+U
+Number of guesses: 23
+U
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 20
+C
+Number of guesses: 20
+C
+Number of guesses: 18
+A
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 21
+X
+Number of guesses: 19
+B
+Number of guesses: 22
+I
+Number of guesses: 19
+B
+Number of guesses: 23
+U
+Number of guesses: 20
+C
+Number of guesses: 23
+U
+Number of guesses: 22
+I
+Number of guesses: 20
+C
+Number of guesses: 18
+A
+Number of guesses: 23
+U
+Number of guesses: 19
+B
+Number of guesses: 23
+U
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 22
+I
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 18
+A
+Number of guesses: 22
+I
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 23
+U
+Number of guesses: 18
+A
+Number of guesses: 21
+X
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 22
+I
+Number of guesses: 21
+X
+Number of guesses: 18
+A
+Number of guesses: 18
+A
+Number of guesses: 20
+C
+Number of guesses: 18
+A
+Number of guesses: 18
+A
+Number of guesses: 22
+I
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 20
+C
+Number of guesses: 22
+I
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 19
+B
+Number of guesses: 21
+X
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 19
+B
+Number of guesses: 19
+B
+Number of guesses: 22
+I
+Number of guesses: 23
+U
+Number of guesses: 20
+C
+Number of guesses: 19
+B
+Number of guesses: 19
+B
+Number of guesses: 22
+I
+Number of guesses: 18
+A
+Number of guesses: 21
+X
+Number of guesses: 20
+C
+Number of guesses: 19
+B
+Number of guesses: 18
+A
+Number of guesses: 18
+A
+Number of guesses: 21
+X
+Number of guesses: 19
+B
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 19
+B
+Number of guesses: 22
+I
+Number of guesses: 23
+U
+Number of guesses: 19
+B
+Number of guesses: 21
+X
+Number of guesses: 19
+B
+Number of guesses: 22
+I
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 20
+C
+Number of guesses: 19
+B
+Number of guesses: 20
+C
+Number of guesses: 23
+U
+Number of guesses: 22
+I
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 20
+C
+Number of guesses: 23
+U
+Number of guesses: 19
+B
+Number of guesses: 18
+A
+Number of guesses: 20
+C
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 21
+X
+Number of guesses: 20
+C
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 23
+U
+Number of guesses: 19
+B
+Number of guesses: 18
+A
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 21
+X
+Number of guesses: 19
+B
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 18
+A
+Number of guesses: 18
+A
+Number of guesses: 23
+U
+Number of guesses: 21
+X
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 21
+X
+Number of guesses: 20
+C
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 19
+B
+Number of guesses: 18
+A
+Number of guesses: 20
+C
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 19
+B
+Number of guesses: 22
+I
+Number of guesses: 23
+U
+Number of guesses: 19
+B
+Number of guesses: 21
+X
+Number of guesses: 18
+A
+Number of guesses: 20
+C
+Number of guesses: 20
+C
+Number of guesses: 23
+U
+Number of guesses: 21
+X
+Number of guesses: 23
+U
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 20
+C
+Number of guesses: 22
+I
+Number of guesses: 20
+C
+Number of guesses: 22
+I
+Number of guesses: 22
+I
+Number of guesses: 23
+U
+Number of guesses: 23
+U
+Number of guesses: 19
+B
+Number of guesses: 19
+B
+Number of guesses: 19
+B
+Number of guesses: 22
+I
+Number of guesses: 23
+U
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 20
+C
+Number of guesses: 18
+A
+Number of guesses: 20
+C
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 22
+I
+Number of guesses: 23
+U
+Number of guesses: 21
+X
+Number of guesses: 21
+X
+Number of guesses: 18
+A
+Number of guesses: 19
+B
+Number of guesses: 18
+A
+Number of guesses: 18
+A
+Number of guesses: 21
+X
+Number of guesses: 20
+C
+Number of guesses: 23
+U
+Number of guesses: 18
+A
+Number of guesses: 18
+A
+Number of guesses: 23
+U
+Number of guesses: 19
+B
