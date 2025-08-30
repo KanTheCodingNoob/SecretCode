@@ -1,0 +1,71 @@
+=== SECRET CODE ANALYSIS REPORT ===
+Total test cases: 9000
+
+Overall Statistics:
+Average guesses: 28.35
+Minimum guesses: 15
+Maximum guesses: 48
+
+=== STATISTICS BY LENGTH ===
+Length  1: 500 cases, Avg:  20.49, Min:  18, Max:  23
+Length  2: 500 cases, Avg:  22.81, Min:  17, Max:  24
+Length  3: 500 cases, Avg:  23.58, Min:  16, Max:  25
+Length  4: 500 cases, Avg:  24.03, Min:  18, Max:  27
+Length  5: 500 cases, Avg:  24.65, Min:  15, Max:  30
+Length  6: 500 cases, Avg:  25.26, Min:  20, Max:  32
+Length  7: 500 cases, Avg:  25.98, Min:  20, Max:  34
+Length  8: 500 cases, Avg:  26.50, Min:  21, Max:  33
+Length  9: 500 cases, Avg:  27.51, Min:  21, Max:  35
+Length 10: 500 cases, Avg:  28.43, Min:  21, Max:  36
+Length 11: 500 cases, Avg:  29.33, Min:  23, Max:  38
+Length 12: 500 cases, Avg:  30.16, Min:  24, Max:  38
+Length 13: 500 cases, Avg:  31.07, Min:  22, Max:  39
+Length 14: 500 cases, Avg:  31.90, Min:  22, Max:  40
+Length 15: 500 cases, Avg:  33.27, Min:  25, Max:  43
+Length 16: 500 cases, Avg:  33.97, Min:  24, Max:  43
+Length 17: 500 cases, Avg:  35.10, Min:  25, Max:  44
+Length 18: 500 cases, Avg:  36.34, Min:  26, Max:  48
+
+=== 10 BEST CASES (Fewest Guesses) ===
+ 1. Length:  5, Guesses:  15, Code: BBBBB
+ 2. Length:  3, Guesses:  16, Code: AAA
+ 3. Length:  3, Guesses:  16, Code: AAA
+ 4. Length:  3, Guesses:  16, Code: AAA
+ 5. Length:  2, Guesses:  17, Code: AA
+ 6. Length:  2, Guesses:  17, Code: AA
+ 7. Length:  2, Guesses:  17, Code: AA
+ 8. Length:  2, Guesses:  17, Code: AA
+ 9. Length:  2, Guesses:  17, Code: AA
+10. Length:  2, Guesses:  17, Code: AA
+
+=== 10 WORST CASES (Most Guesses) ===
+ 1. Length: 18, Guesses:  48, Code: IICUCIAXUBUIXABXBA
+ 2. Length: 18, Guesses:  46, Code: CAIACXUIBXUUIAIBAB
+ 3. Length: 18, Guesses:  45, Code: XAACUICXUBICXABCII
+ 4. Length: 18, Guesses:  45, Code: XXXUBIUUCIAUBCACUA
+ 5. Length: 18, Guesses:  45, Code: IBICACBUUXXIABCBXA
+ 6. Length: 18, Guesses:  44, Code: BCUXAUBBUXIIABXIAA
+ 7. Length: 18, Guesses:  44, Code: CXUXXAAXUCIUIIIBUB
+ 8. Length: 18, Guesses:  44, Code: UXIACUBXXAIXXACAXB
+ 9. Length: 18, Guesses:  44, Code: AUCAIAXBICXUUCAUBC
+10. Length: 18, Guesses:  44, Code: XXXIXIXCABAUUCUCBC
+
+=== BEST AND WORST BY LENGTH ===
+Length  1 - Best:  18 guesses (A), Worst:  23 guesses (U)
+Length  2 - Best:  17 guesses (AA), Worst:  24 guesses (BX)
+Length  3 - Best:  16 guesses (AAA), Worst:  25 guesses (CBA)
+Length  4 - Best:  18 guesses (XXXX), Worst:  27 guesses (UBIX)
+Length  5 - Best:  15 guesses (BBBBB), Worst:  30 guesses (UIBXA)
+Length  6 - Best:  20 guesses (BAIIII), Worst:  32 guesses (UICABX)
+Length  7 - Best:  20 guesses (BBIAAAA), Worst:  34 guesses (UIXACAB)
+Length  8 - Best:  21 guesses (IUXUIUUU), Worst:  33 guesses (IUIAXXCB)
+Length  9 - Best:  21 guesses (UUXBIUXXX), Worst:  35 guesses (UBIXBAXCA)
+Length 10 - Best:  21 guesses (BIXBXIBBBB), Worst:  36 guesses (BUBUXICAIA)
+Length 11 - Best:  23 guesses (IIACUXUIAAA), Worst:  38 guesses (XUUBBCAXICA)
+Length 12 - Best:  24 guesses (IXAIAICIXUXX), Worst:  38 guesses (BXXIIUAUCACB)
+Length 13 - Best:  22 guesses (BBIBCIXBXCIII), Worst:  39 guesses (UCXUXAAACBIII)
+Length 14 - Best:  22 guesses (IIIABBIABCBIBB), Worst:  40 guesses (BUUICBIXXCBCBA)
+Length 15 - Best:  25 guesses (CXBCBCAXXBCBUBB), Worst:  43 guesses (UXUCBCXABIIICAB)
+Length 16 - Best:  24 guesses (BCCIACICCXAIIIII), Worst:  43 guesses (XCIBUIUICUXABAIA)
+Length 17 - Best:  25 guesses (AIIXAIIIAAIIIAIAX), Worst:  44 guesses (XXBIXICBUBUCICBAA)
+Length 18 - Best:  26 guesses (IXCABBXXABCXIUAAAA), Worst:  48 guesses (IICUCIAXUBUIXABXBA)

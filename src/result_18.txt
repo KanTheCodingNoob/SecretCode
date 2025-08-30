@@ -1,984 +1,1000 @@
-Number of guesses: 33
-XBCUAIBIXBXCUIAUXC
-Number of guesses: 43
-XBCUIIXAAUAXCCICAX
-Number of guesses: 38
-XIIBIUXCCCAUAIXAXI
-Number of guesses: 37
-BIBAXBCUUCIUUUABBI
-Number of guesses: 42
-BUBUIIABCIUIXBCCBA
-Number of guesses: 37
-CUAXAXIXXBCUAAXABB
-Number of guesses: 39
-ABABXBXUBICIXIUXAC
-Number of guesses: 37
-AXUBUCXCUUBUBXCBAB
-Number of guesses: 35
-UBACBCUXAXACCXBUBC
-Number of guesses: 33
-CUIBBIIIUIUIAABACI
-Number of guesses: 43
-XIUIUBCBCIACUUBAUA
-Number of guesses: 37
-ICIACXICBBUXUAXAAI
-Number of guesses: 38
-BAXBAUUXICXUUCCUAU
-Number of guesses: 36
-UCBIUABBCBICUIUCIX
-Number of guesses: 36
-CXUAUAIIBAXABAUACA
-Number of guesses: 35
-XCCAUUUBCAUBBBUAAU
-Number of guesses: 32
-UBCUUAAIIUACIIICIU
-Number of guesses: 41
-ACAXCAUAXBABIUIAIX
-Number of guesses: 42
-CAIXIBXUIABXCCAUBC
-Number of guesses: 40
-ICACAABUBBXXXCXBII
-Number of guesses: 34
-BAXICXIUBCXCXBIBBU
-Number of guesses: 38
-CUXIXCBCIABIUBUXAB
-Number of guesses: 35
-BUUIICCIAACCUAACIC
-Number of guesses: 36
-UBBUXCBXCXUICXUIXI
-Number of guesses: 39
-BACUCXBBIACCIIAIBX
-Number of guesses: 44
-IACBCIABCXUUXBUXBC
-Number of guesses: 35
-UBUXAIIICXIICXCAXI
-Number of guesses: 35
-XBXCUACBAUIBAIUUXX
-Number of guesses: 33
-XIXXXIBXAXBBAIXBAB
-Number of guesses: 36
-XUCCBBIBXUCCUCAUBX
-Number of guesses: 31
-CXAACCCXCUCBXCUXBU
-Number of guesses: 39
-XIBAIBCCXACXIAUAIC
-Number of guesses: 34
-CCCBAAUUAUUUAAUXXB
-Number of guesses: 36
-XICCXICIUXIBBBACIC
-Number of guesses: 33
-AUBCCICIACAUABUAIC
-Number of guesses: 32
-BUCBCICBACCCIACUUA
-Number of guesses: 33
-CBXUUXIUXCXXCUCBCU
-Number of guesses: 31
-UAUAXUUCUIUAUAICUC
-Number of guesses: 37
-ABIBCCBIXCIUCCXBUX
-Number of guesses: 37
-CBXCBBAIXABUICBCII
-Number of guesses: 30
-XXCCXBXBCUCXAUIBCC
-Number of guesses: 35
-CXBABIBXAABXUIXXIU
-Number of guesses: 36
-ABAAUXBCUXUCACXAAB
-Number of guesses: 39
-UXXBUBAXCIUBIXIACX
-Number of guesses: 39
-BCBUXBIBIUAUIBXABX
-Number of guesses: 41
-UAIABCIIXUBUCIXBIX
-Number of guesses: 33
-UUCABUAUBAIAIBIAUC
-Number of guesses: 39
-AIAUUBUACBIUUICBCC
-Number of guesses: 36
-ICBAUIXBBIAICIIBIA
-Number of guesses: 38
-CIIAIUBBUCUCXIICIA
-Number of guesses: 36
-UACXIBBCIAIXCXXXCC
-Number of guesses: 35
-ACXCXUCAICCACAUBUI
-Number of guesses: 33
-BCUUBXCBUXXXACCXUI
-Number of guesses: 33
-CIBXBAIAAXIAIAUBUX
-Number of guesses: 35
-AACCICBICXXCCBCAXB
-Number of guesses: 38
-UIIUAIXCAIUCBIIXIA
-Number of guesses: 39
-IUIUCBCAIXIXXXXXAA
-Number of guesses: 37
-BCBCIXCIUXAAUBIXUU
-Number of guesses: 32
-BACCACAXABBXAIAIUC
-Number of guesses: 37
-CXBCAUIUACBUUBAABB
-Number of guesses: 38
-ACUCBCUBAXIBCXCABX
-Number of guesses: 35
-BICCIICXXAACUUBBIB
-Number of guesses: 35
-ICCCACXAUIBACBBUBC
-Number of guesses: 30
-UCCCBIUCCUAAXCIIUC
-Number of guesses: 39
-XUCXIBUBIUXIAUBAUC
-Number of guesses: 35
-IAUXCIUXUIUUIXXXAA
-Number of guesses: 31
-XBBCXACUCCXBUICAXI
-Number of guesses: 37
-IUXBUBIUXBIXIIXCCB
-Number of guesses: 33
-AAAXACCIBBXCCIUXIC
-Number of guesses: 38
-BIABBBXBXUICCUIIIX
-Number of guesses: 42
-IAIUXBXXCCBUBICBAX
-Number of guesses: 35
-BXXBCAXUCXXAAIXCBC
-Number of guesses: 37
-CUXXXCBUBCBIXXIUAB
-Number of guesses: 32
-BAIBUUBBAIAACUCBUI
-Number of guesses: 36
-IABIICUICICCCACBAB
-Number of guesses: 36
-UBIUXAAUCBXUXBIXBX
-Number of guesses: 36
-BUCXBCBXICIUICAIBB
-Number of guesses: 33
-UCICIBIIIAUUUBUXIU
-Number of guesses: 38
-BACAUAUBABCXCIUUXX
-Number of guesses: 34
-BIXCXCBUCXUXXCIXUU
-Number of guesses: 35
-XABAABUXBIUXUBUIUC
-Number of guesses: 34
-UCUIAUXAAAUIACUIUB
-Number of guesses: 38
-BXAUACCUUACUXBIACX
-Number of guesses: 31
-AABCBIAAACAAUICXUB
-Number of guesses: 39
-BUBCCUXIIXACAIBCXC
-Number of guesses: 33
-XCIAIIXICUAACAXUCC
-Number of guesses: 36
-ICAUBUXABCCABAUCIB
-Number of guesses: 37
-BUXUIAXICIUBBBUBCI
-Number of guesses: 36
-UXIICCXXAIXUAICIAI
-Number of guesses: 43
-XIUUXAXACCIUUBCXBA
-Number of guesses: 33
-AACCBICCXCCIXICABI
-Number of guesses: 38
-CCAXBUXAICXUXCXUBC
-Number of guesses: 42
-AUIUCXIUUBCUXXBABU
-Number of guesses: 33
-BBBCUXCUIAICUBBCXB
-Number of guesses: 34
-AABABUIXICUABUBBCX
-Number of guesses: 38
-ACCAACUXIIUUXBBACI
-Number of guesses: 33
-CCIXXXCBCCAXUICXIX
-Number of guesses: 37
-IICCBCIACXICBAXUAU
-Number of guesses: 37
-XUUIAXUCIAAUXXBXBU
-Number of guesses: 34
-BBAXXXAIXCABCAIIBA
-Number of guesses: 32
-UBXCCBBCAIIICIIUIX
-Number of guesses: 36
-BXUXUXXCXIXIIAIAIB
-Number of guesses: 32
-CUUAACBUIAXACUUCXC
-Number of guesses: 40
-IBAAUBXXUCUABXXXCC
-Number of guesses: 46
-BIUAIXXUBIBXBCCCBA
-Number of guesses: 37
-IIUBIIICICXBXUXXAC
-Number of guesses: 40
-BXIIXCCUCAICUUIUAI
-Number of guesses: 35
-ACIXAACIBXUUCBIUXI
-Number of guesses: 43
-UUABUAIUAXAXBICXXB
-Number of guesses: 38
-IAIXBBXACAACUUIAAB
-Number of guesses: 38
-AXBUAUUBCACBUBIXIA
-Number of guesses: 38
-AXUBIUICBXUUXIACBX
-Number of guesses: 32
-BCIUCBUBBCUIBUACII
-Number of guesses: 31
-AAUUBCBUUXXAAUXUCX
-Number of guesses: 42
-UAUUXIACCUBIXIXXBI
-Number of guesses: 42
-XCUBXBIAACBAUUBXXA
-Number of guesses: 37
-CUXBXCIICICIXAIIAC
-Number of guesses: 38
-UICXIXXIBCIXCXUBAC
-Number of guesses: 42
-XXBUCUIBXCCAUBIAAX
-Number of guesses: 32
-UCXBBXBBXCBIBXBCUC
-Number of guesses: 33
-UBBIAAAAXBAUUABXCA
-Number of guesses: 35
-BUAUABIAIICUXIXIAI
-Number of guesses: 36
-IUCUIAXUIBUAAIIXAU
-Number of guesses: 38
-IIBCUBBIIXBBUXBUUA
-Number of guesses: 39
-IBIIBUCAXUABBAXBAU
-Number of guesses: 40
-IIUCICCUBXICAAUXXA
-Number of guesses: 39
-BIXIXBCABCIAXUCIAX
-Number of guesses: 44
-XIBIIAAAXUBAUCABCC
-Number of guesses: 37
-CXUBUXCCUIAUUUBUBI
-Number of guesses: 33
-UXBIIAIIUABAIAUXUA
-Number of guesses: 35
-UIACAUICCCUXBAUUAU
-Number of guesses: 39
-XUXUCCIICUCXIBAIBX
-Number of guesses: 32
-XAIABXCXXXXCABABIA
-Number of guesses: 32
-XAABXXBXAACBBCICUB
-Number of guesses: 34
-CUXXAABCBCXAABUCXB
-Number of guesses: 27
-XAUUCXCCUAUIXXUXXX
-Number of guesses: 41
-XBIXXIICIUAUIUCACC
-Number of guesses: 39
-BAACUBXIXAIXBBCBUA
-Number of guesses: 31
-XBXICCCUXUXIIUAIII
-Number of guesses: 30
-BIBAABABUCAIUBUIAB
-Number of guesses: 38
-AIBXCBIXUXUIXCBUIA
-Number of guesses: 29
-BBBCXIBCBUIBXBXBXB
-Number of guesses: 39
-XAAXCABICUUAUBXAUU
-Number of guesses: 35
-UBUIUAABXXBXBXBIUC
-Number of guesses: 37
-AXABXCICBICXUCUCBX
-Number of guesses: 38
-AUUXBCCAUAUXBCBBXC
-Number of guesses: 36
-CUIXBBUUCIAAXBABBB
-Number of guesses: 37
-AABUAXXCCCXCABIAIA
-Number of guesses: 36
-CUBXACCACIIIIBAIBU
-Number of guesses: 35
-XICIUIICUIAXIUBCIC
-Number of guesses: 39
-UICAUXUBABICUXAXBB
-Number of guesses: 36
-ACICCAUBACXCBAAUCU
-Number of guesses: 30
-UXCBABACACACAUCIUA
-Number of guesses: 33
-BIBIBACBBIXXUCBIXB
-Number of guesses: 32
-BXXIBUUICXCIXBXCCC
-Number of guesses: 32
-UBAUCBAIUXCUBCIIAX
-Number of guesses: 28
-IXAAAXXACACXABAAXI
-Number of guesses: 35
-IXAIBXCUXUCAUAUUXI
-Number of guesses: 32
-ABAXCXAXCAIIBXBUXC
-Number of guesses: 29
-IAAIUAUAAXIUICAAAU
-Number of guesses: 37
-XBIUBUIUXUCXIUCUXA
-Number of guesses: 41
-CUAACCAIUXBIBXXUBA
-Number of guesses: 37
-UBUXCBBAXXCCCIIUCA
-Number of guesses: 36
-AUACCBUXUUXABUXUIB
-Number of guesses: 37
-BUUABCIICICXIUUUAX
-Number of guesses: 38
-CBUUAACBABXIXBCUAC
-Number of guesses: 40
-IUXCIXBAABIXIXABXB
-Number of guesses: 40
-IIIXCAIXUBIBUUUBXB
-Number of guesses: 39
-IUXXBXUBXAICAAACXA
-Number of guesses: 33
-AAUIABUUXIAXUAXICU
-Number of guesses: 28
-CIICUABBCXBIBIIUII
-Number of guesses: 33
-AACBBCXCCUUCCIICAC
-Number of guesses: 39
-IUICCAUCIXXCAUBAAU
-Number of guesses: 39
-XCUCXBBXAIICCCBUAI
-Number of guesses: 33
-XIBUUXBXBAXIUIUACX
-Number of guesses: 35
-CBUXCUABUUIABUBUUX
-Number of guesses: 32
-BBAXIIBBXAIIIUAIIB
-Number of guesses: 36
-XIBIXCUIXIAXCUBBXU
-Number of guesses: 37
-XIXBXBUICBUBBAABAI
-Number of guesses: 35
-ABXCBCIIAIUCUIBXUI
-Number of guesses: 37
-ACIBUXBBXUBABBACAU
-Number of guesses: 37
-IXIBAUXBCIXCICCUXC
-Number of guesses: 40
-IBBIICUUIIUAUXCCAB
-Number of guesses: 38
-CAXCAXBCAIUAUICCUU
-Number of guesses: 44
-UUXXCIXBCIUCABAUUA
-Number of guesses: 37
-XICCUABCUUBABCUBBA
-Number of guesses: 36
-UCXAAXXXUCUUIICUIA
-Number of guesses: 39
-AIABUIIAUXAXUCICCA
-Number of guesses: 43
-IIUXAUCAAXXBACXBIB
-Number of guesses: 35
-IICABCUBXIXIIAAXUC
-Number of guesses: 37
-AUAUAIXIBAXBAXUAIX
-Number of guesses: 36
-IXAUXXIIICUCXAUUCA
-Number of guesses: 33
-IIXIUIAXBBXBXABIAX
-Number of guesses: 40
-BAIUCUXIAXBCCXUXUA
-Number of guesses: 33
-CAIBBBUACXIAABCBBB
-Number of guesses: 42
-CUIUUICCXBXXCBABCB
-Number of guesses: 36
-XBIXAXIAAXXUBACXXB
-Number of guesses: 39
-ACBXUICIIUICABXIXI
-Number of guesses: 34
-UUXAAIBCAACCBUXICC
-Number of guesses: 40
-XIBAACUUIIIXXXUABC
-Number of guesses: 35
-AUCXCBIAABICCAACAC
-Number of guesses: 36
-AIIUAXXUBAXBXXUBIB
-Number of guesses: 41
-CIBUIXXBCUBAIUUXBX
-Number of guesses: 40
-BUABXCUIABXAICBCUX
-Number of guesses: 36
-UUIBUBUICABBUUXIXA
-Number of guesses: 38
-BCIBUUCUAXBXIIABUU
-Number of guesses: 41
-UXUCAABIIBBBXXAAAX
-Number of guesses: 39
-IIUXUAUAUXIUXIIBCB
-Number of guesses: 42
-UAAXAXIIBAAUICCCUB
-Number of guesses: 33
-BIUIXXAXBIXICXXXXA
-Number of guesses: 39
-BIXBIUUACUIBACXAXU
-Number of guesses: 31
-AUXIXIBXIBBIBBCBBB
-Number of guesses: 32
-ACAUXCXAUAXAUBAAXA
-Number of guesses: 39
-CUXIBCXIBAICCIAXAI
-Number of guesses: 34
-UUAXUAUCAIXUXICIXA
-Number of guesses: 39
-IBBIUXCCBBICAUICUU
-Number of guesses: 35
-UAACAXCIXIXCIUIIXA
-Number of guesses: 36
-IIAXBBCBCCBCXIAUIX
-Number of guesses: 37
-BXXXUAIBCAAUCICCXX
-Number of guesses: 38
-CBICBAXUAAUUIBBAIC
-Number of guesses: 33
-CCCIUAXXAAAAXUUIUA
-Number of guesses: 35
-CCAIAIXAAIBCBXIUUI
-Number of guesses: 37
-ICBUBUUAIABICIXCIX
-Number of guesses: 37
-IAABUIIXCCIIXUIIAA
-Number of guesses: 43
-ICCCAUUUBABBUXIBIA
-Number of guesses: 42
-CBCXUXBAIIAIUXUUAC
-Number of guesses: 38
-XAXXAXCAIIBBUCICAU
-Number of guesses: 39
-AICXUCCBCAUXBBXBBA
-Number of guesses: 39
-CABUBXBXAIIAUCUAXU
-Number of guesses: 31
-BIIIXUXAAIIBBIICXU
-Number of guesses: 35
-AUAABUCBBUAXXXCXIB
-Number of guesses: 37
-BBICIIXBXUAAAIXCBU
-Number of guesses: 32
-UUCUUXBCCCCUCCUAAI
-Number of guesses: 42
-AICBAXAXUUUXUBCBII
-Number of guesses: 37
-BICIAUXIAXBBXXAACX
-Number of guesses: 35
-AABBIXICCAAAACBICB
-Number of guesses: 37
-IBIXACAUXBCCXBIAIA
-Number of guesses: 38
-BAACUAIAAUUUUCXXCI
-Number of guesses: 44
-IACXIAIUBCXUXCCXBA
-Number of guesses: 40
-CBIACXXACBUCIIUUCU
-Number of guesses: 44
-IUUABBBBXCAIIAACXC
-Number of guesses: 36
-UCBAUCACXBICUBXBBC
-Number of guesses: 32
-CUCXCXBCCXUCCBCBIX
-Number of guesses: 41
-XUUBIUCBIICAUIBAXX
-Number of guesses: 35
-XXUABXBCUBIACCBCUX
-Number of guesses: 32
-UACCIIUABIIUIBXUCI
-Number of guesses: 37
-UIIBIIUUCXBXCCAUUC
-Number of guesses: 35
-XUBIIIXCCACXBBBIXU
-Number of guesses: 32
-ABCACBACBAUCBUUCUB
-Number of guesses: 36
-BXAXAUXIACBXXICXBC
-Number of guesses: 36
-BAIXCCXCXAICICCUBA
-Number of guesses: 36
-BAUIXIICBUIXCUAXBU
-Number of guesses: 35
-ICAABXICCABXXUICBB
-Number of guesses: 38
-BCIUICIUAIAIXAAIUX
-Number of guesses: 39
-BCUUXIUBXAAAXUCABC
-Number of guesses: 41
-ABCCUCUIXBUXCUXXIB
-Number of guesses: 33
-UXBAIXUAXAAAUAACAX
-Number of guesses: 41
-CIXCXCIBABBUAIICUU
-Number of guesses: 42
-UXICUIABICUBAIXIBC
-Number of guesses: 34
-ACCIAXICIXBIABCBBU
-Number of guesses: 39
-CXBUBICAUCBACBXXIC
-Number of guesses: 38
-IACBIABCUXUBIIUXBC
-Number of guesses: 35
-CIXIICBBXAUCAXIXCC
-Number of guesses: 35
-AUUCCIUBCXABXICCBU
-Number of guesses: 42
-IXBUXIUIACAXXBBCCC
-Number of guesses: 34
-IXBUCIUXXXUXXAUIBX
-Number of guesses: 37
-BUXXIAAABIIIAXCBAX
-Number of guesses: 35
-IBXAIUCAABABIXAIAX
-Number of guesses: 33
-IIIAXBIXXUAXXUIIAB
-Number of guesses: 37
-AUAACAAXBICCCCXIXX
-Number of guesses: 42
-BBCIUUCAXIICXABAAC
-Number of guesses: 31
-CBAXCXBBABCAUXCACC
-Number of guesses: 37
-XAAUUBXUIUACABIXCI
-Number of guesses: 38
-IUXACXCAICAUBXICAI
-Number of guesses: 37
-CXUCXBABUBIXAXACCU
-Number of guesses: 33
-BAAAIXAXXIICIUUIIX
-Number of guesses: 34
-IIBIIICXUBIIIXUABI
-Number of guesses: 40
-IXXAUUIXUCCXABIIXC
-Number of guesses: 33
-CUUUCXICXCXAABXXUX
-Number of guesses: 39
-CBAIXXAIUAAABXXICC
-Number of guesses: 40
-CCUXAABAXUICCBBCXB
-Number of guesses: 28
-AXIABBUBXCXBIXXUXX
-Number of guesses: 40
-BIAAUBBXACXUCBUIAU
-Number of guesses: 33
-CCABABBABUIUABABCX
-Number of guesses: 39
-ABBUBXABXIAAICBCCC
-Number of guesses: 39
-IBBUUAUAIUBICAXUCA
-Number of guesses: 40
-UCXIXICUABBXBABIAB
-Number of guesses: 38
-CAUCIBBUCBXUCXCCIX
-Number of guesses: 34
-CCCXIUACBXCAACXAXI
-Number of guesses: 38
-UUBABIBBUBAXIIBIXX
-Number of guesses: 35
-UXUUUXCBXAUIUAIXAI
-Number of guesses: 36
-UCBCIBXAIIBUBBACCU
-Number of guesses: 35
-ABXIAAAXUCXBXBXXCU
-Number of guesses: 36
-IACXCBBCAIXUXXACIC
-Number of guesses: 38
-CUAAUACBICUXCABBUU
-Number of guesses: 30
-UAUUAUUACCXAIUCAAC
-Number of guesses: 37
-CAUBUAXCXCIIACAUCA
-Number of guesses: 33
-BBUXUCUBBUBCXIUIUA
-Number of guesses: 35
-UCBIBUAICIAICCCCXI
-Number of guesses: 40
-BUICXUUAXCBAICICUA
-Number of guesses: 41
-XIAAXCIIAIUUIBUUUB
-Number of guesses: 35
-AAXCBCUAABAUUAICXI
-Number of guesses: 40
-CAAUCUBXIBCCBCBIAA
-Number of guesses: 39
-AAUCBXXCBIICBCXAAB
-Number of guesses: 38
-BABCUUBBXCUAXBICXA
-Number of guesses: 42
-UXBIIAUUAXABXXCIAC
-Number of guesses: 38
-CUBXXCUUAXIAXBUABA
-Number of guesses: 39
-BXCAAIBCUACXAUCUCU
-Number of guesses: 38
-ACXXICBXAXUBXCXIII
-Number of guesses: 32
-ABABIBCACCUUUBXUIU
-Number of guesses: 35
-XXBIAIXUBCABAXACAI
-Number of guesses: 42
-IXCAXAIIBAUXCBBAXC
-Number of guesses: 34
-BBXUAXUIXXCUBAABUB
-Number of guesses: 40
-IUAAUIUBBXBBXUACBA
-Number of guesses: 41
-CAIBIXAACCUCUUXBXU
-Number of guesses: 29
-CXUXCAACCAUUCXXUIC
-Number of guesses: 36
-XXBIIUXAXUAXABIUUB
-Number of guesses: 36
-BCCIABXBIBAAUBUABI
-Number of guesses: 33
-CCIACCABUCXXCXCAIX
-Number of guesses: 31
-BABAXUCIUAUUAUUCAA
-Number of guesses: 33
-CBXXICUCUAIXCBAIUC
-Number of guesses: 33
-IBXXCBUICCICCCBBXC
-Number of guesses: 34
-UUICICAABIUBUBCCBB
-Number of guesses: 40
-CAAIUBUBXBIAUCAIIC
-Number of guesses: 37
-IBIAACABXICUXAAAUB
-Number of guesses: 34
-UUUCXUAAICAUCUCUAB
-Number of guesses: 34
-BCACUIBACACIBUAUAC
-Number of guesses: 35
-UUACBCAUUUBAAICIBI
-Number of guesses: 33
-CUIUBIUUCBIBBXBBBC
-Number of guesses: 34
-XBUCUUXAAAICUACUCU
-Number of guesses: 33
-UXCUICCICIIUCXBACI
-Number of guesses: 42
-XCBIBBAIUUACXUCACX
-Number of guesses: 34
-UCCABUXBACXXBUACIA
-Number of guesses: 33
-XUAIIAABICBAABAIIC
-Number of guesses: 33
-XACBACXCCXIXCUACUX
-Number of guesses: 36
-CABUUUBUUACIXUXIIU
-Number of guesses: 39
-XUIUUUIIAABUAUBXAB
-Number of guesses: 38
-AUBBXAXXCXCCIBBXCA
-Number of guesses: 35
-IUXIXCAIBAIXXUAIAI
-Number of guesses: 40
-IXIICUCIBIAICBUBAB
-Number of guesses: 35
-IBAXAUCCXACXBUIBUC
-Number of guesses: 33
-XABUAIAIXUAXABXBUA
-Number of guesses: 33
-BUXBBUCIBIAXXAXUUU
-Number of guesses: 34
-BCBXXBUAACIXXCBXCI
-Number of guesses: 35
-IUACUACICUBUCBAIXI
-Number of guesses: 34
-ICXAUIAXCCXACAACAC
-Number of guesses: 38
-CCXIBXUAIBABIIACCA
-Number of guesses: 38
-BIIIBBIABCCXABUAXC
-Number of guesses: 37
-UACIACBBBIUIXUABUU
-Number of guesses: 38
-XCXIIBXBUUUIBIXUAA
-Number of guesses: 30
-XUCUBICAAXUXAXAXAA
-Number of guesses: 34
-AAAIBIBABCBAIUAXUU
-Number of guesses: 38
-CXAAACAXBAXXIBCUBU
-Number of guesses: 27
-BUABBXAAUAXBUABBAA
-Number of guesses: 35
-UXBCBBBCAUXUXXUIIU
-Number of guesses: 42
-UIIUABICXXBCUBUUCB
-Number of guesses: 35
-UCUUBBIBUCXBUXCCXX
-Number of guesses: 37
-AIXBUCIBBIBCCBABBA
-Number of guesses: 32
-XUIBACIIXUUXBXXIXX
-Number of guesses: 43
-ICXCAAUBUUUXAXAIIB
-Number of guesses: 44
-AXBUUXBIUACXICXIIB
-Number of guesses: 38
-CUUXIXCCUBXCIAIABU
-Number of guesses: 37
-CXBIIIUBUCIXUACXUA
-Number of guesses: 41
-BXIABCUXAIUBIICBCX
-Number of guesses: 31
-XCBXAAAICXAIIXIIUI
-Number of guesses: 34
-BCUUXAUBXCCABCXUXB
-Number of guesses: 36
-UCBCCXXXCIICXBCAAX
-Number of guesses: 38
-UCBUIIAXUACXCIUBUC
-Number of guesses: 35
-XAUXBICCBCUUBCAUXU
-Number of guesses: 35
-AIIAUIIUUCCCIXCCCX
-Number of guesses: 33
-BCAAUBUCAACBBBAUXC
-Number of guesses: 46
-ICCXUAIUBXACXBIXBA
-Number of guesses: 37
-BCXCCUXBIBIUBABUIC
-Number of guesses: 39
-ACBXIXUIUUXIICUBUI
-Number of guesses: 38
-UAXCBXBIXAXBCABIBA
-Number of guesses: 39
-CIBAUUIUIXBBICCXBB
-Number of guesses: 36
-ICBIABUUBUICXAIBCI
-Number of guesses: 38
-BCCBUIBAUIBUIIUXBC
-Number of guesses: 40
-UAIAACIBXCBUXAIUXU
-Number of guesses: 41
-AIIIXCUCCBAUACBUUA
-Number of guesses: 36
-UAXXICXUIAXIXUCCCU
-Number of guesses: 40
-XIAUXXXCIAXAUABBIC
-Number of guesses: 40
-BBAXIXBUCUABCXUXBC
-Number of guesses: 37
-IBCAXXBXAIXCCUAUXB
-Number of guesses: 38
-AAUUBUIABCUXCBAXBC
-Number of guesses: 38
-BABUIACCXCAUBBCUXU
-Number of guesses: 43
-UXIIBCXAXUBCBBAXCC
-Number of guesses: 37
-CCBUAIBIICBAUABCUU
-Number of guesses: 33
-XUIIXCBBIAABIXBUII
-Number of guesses: 35
-UUUCIXBBBBCIIBAIIU
-Number of guesses: 40
-UCICIXXUIIXAAXAABU
-Number of guesses: 31
-XXCBCIIAXXICACCCIB
-Number of guesses: 32
-CIACXAIACCAIUUAAAC
-Number of guesses: 34
-IBBCAUUUCBUBICBCXB
-Number of guesses: 31
-IBIBXXIBAAXXBUXXCX
-Number of guesses: 30
-AUCXXCXCIUIUXAUAAA
-Number of guesses: 42
-XCIUUBAIIXAIUCCBBI
-Number of guesses: 40
-IUUUXXCCCIBXBIABUX
-Number of guesses: 36
-IBIIXIAXXCAXBAIABB
-Number of guesses: 34
-UBIUBXIABCXBUIXAUU
-Number of guesses: 36
-CAXXUAXUCUCCUXICIA
-Number of guesses: 36
-AXCCCAABXUBXBXABXU
-Number of guesses: 34
-IXBAAXAICABXUCAAXU
-Number of guesses: 37
-IUIBBAXBBBXUBUCIXA
-Number of guesses: 42
-AUAICUCIBXBAIUBXCX
-Number of guesses: 39
-UBUUBXUAXCIBICIAAU
-Number of guesses: 33
-CCBUUCUUBAUUAACXXA
-Number of guesses: 38
-BXUAAIXCUIUUBIXIBI
-Number of guesses: 37
-AUIACABAABAUXCXUAX
-Number of guesses: 37
-XABAAUACXUIIAXCBXI
-Number of guesses: 37
-XAAAICIBUCCCXAABAX
-Number of guesses: 30
-IAIBAUCCBXIUIXAUBB
-Number of guesses: 41
-AUAICCUXAXXICAXBBI
-Number of guesses: 32
-CXICXUIXIBACCUAUIX
-Number of guesses: 40
-UACAAXCBIAIXIUCXIC
-Number of guesses: 37
-ABBCXUIUCICXXXIUBU
-Number of guesses: 33
-AIUXAIXICIAICAXXUU
-Number of guesses: 37
-ACUUAAXUIUIXAABIAX
-Number of guesses: 40
-ABAICUAIXUUIXBACAB
-Number of guesses: 40
-XABIUIUUBCBBIXIXBC
-Number of guesses: 31
-UBAUUBBXUUBBAXUCUA
-Number of guesses: 34
-IBUAXXXACCXUXCAIAA
-Number of guesses: 42
-BIXUBXAIIUACCBBUUA
-Number of guesses: 37
-UBABIXCXXCIIUXAUIC
-Number of guesses: 34
-ACUBUBIUBBIIUBBUUC
-Number of guesses: 30
-CIIBBIIUIBCXAICIUX
-Number of guesses: 37
-UBCIBCCXIACCBUCUUB
-Number of guesses: 33
-AXAACIAIIXAUXACCXX
-Number of guesses: 35
-AIICCIIBCABUBIUCCU
-Number of guesses: 41
-CUCIBUUUAIBIAUBAXA
-Number of guesses: 35
-XCUBABXXBXIXUIXUAC
-Number of guesses: 31
-ABUCACUCCIBUAAXUCI
-Number of guesses: 35
-IXAIAICIIBCAUIXBBI
-Number of guesses: 34
-UBBXUICBBUCBUABUAU
-Number of guesses: 28
-AABXUCABAAUXCXBIAU
-Number of guesses: 37
-UXABAXIXUBBXUCAAAC
-Number of guesses: 33
-AIXCXXCXABXCXUAUBC
-Number of guesses: 36
-ACUCACBXXBAIABUBIU
-Number of guesses: 37
-ICUXCUCCAAAAICXCBX
-Number of guesses: 37
-ACUABCAUAACBBUUXUX
-Number of guesses: 39
-XCIUCXBBAAIBBIXCIC
-Number of guesses: 39
-ABICUUXAXAXBCCBAAI
-Number of guesses: 37
-AXCABAXCIBCAXUIABC
-Number of guesses: 33
-BUCIAAXCCBBUACCBAC
-Number of guesses: 39
-BACAAXUIAXUBIABUUU
-Number of guesses: 40
-IUAAUUCXBICXUAICBI
-Number of guesses: 26
-CCXXACCCICXACICXCU
-Number of guesses: 39
-UACCXUUIUACCIIBBUX
-Number of guesses: 34
-XUUUCCUAABXUXBUCUA
-Number of guesses: 39
-CAAACBIBXBIIUXXIIC
-Number of guesses: 37
-AXAIIAXBXBBIAUXXCB
-Number of guesses: 37
-BAXAUBUXIXAUCBBBII
-Number of guesses: 32
-BIBAIACIUBIBICAIBA
-Number of guesses: 34
-CBAAXUAAUCUBBCUIXU
-Number of guesses: 36
-ACXIAUAACCCUUUAAXB
-Number of guesses: 32
-IBIIBIUUBAXIIBUBIX
-Number of guesses: 36
-IIIIICCXCCXBAAXABI
-Number of guesses: 38
-BXXICUCIXAXIAIABXU
-Number of guesses: 33
-ICBUACCAAICCABCABU
-Number of guesses: 33
-IUUIUCAICUIUCUUCCB
-Number of guesses: 31
-BIIBAUIBBAIXCXUXII
-Number of guesses: 32
-IUIBBCIUACUBXBUICB
-Number of guesses: 33
-BABBUIBBBBUBIAUCAX
-Number of guesses: 39
-UCCUBUIACXCBUIBCAA
-Number of guesses: 41
-XCIUBXIAIBBAICUBAX
-Number of guesses: 37
-IBBUBCBXIIBUIXUAUC
-Number of guesses: 33
-UIXBXIIBXCUCCUXXIX
-Number of guesses: 39
-ACXICUUIXBCCBUXABB
-Number of guesses: 45
-XIUUBUIABABXCCXICX
-Number of guesses: 34
-CXUUXCCABBCXBBBCBI
-Number of guesses: 37
-UABBUIAACIIUXBXBII
-Number of guesses: 32
-UBXCBICUUAUAUBUUCI
-Number of guesses: 36
-AUXACBUBBBUXCXXABC
-Number of guesses: 35
-ABIXIXICAAAXBXBBIC
-Number of guesses: 37
-CBCUAACIIXCIBUAIBI
-Number of guesses: 37
-XABCAXIIXCIUICIIAB
-Number of guesses: 39
-BIXAIIXBUUABACUBAB
-Number of guesses: 36
-UUCIBUXIACIACUXBIX
-Number of guesses: 33
-CIBXUCCBUCUBUIIXUI
-Number of guesses: 34
-AIUIAUXCAIUCXUUXAA
-Number of guesses: 32
-CXABIBBBXXAACBXCXI
-Number of guesses: 37
-AXBUXCBIABXCUICUBA
-Number of guesses: 43
-UIBUCXXBBICAUBUXXA
-Number of guesses: 35
-BUBACBBUXIIXIXBUIB
-Number of guesses: 40
-UXCBICAAUXACBCBIXB
-Number of guesses: 41
-IBIIBXCXCCUCACBXAB
-Number of guesses: 42
-UIIUXUABXAUCXUCCCB
-Number of guesses: 38
-UBAXABBCBICUBCIIBA
-Number of guesses: 39
-UBBXUABCACBIAAIAXX
-Number of guesses: 40
-XUCAXCIBICIBIBCCBX
-Number of guesses: 37
-UXAUIUIACCAIIAIXBI
-Number of guesses: 38
-XBXIXCXIUCIUCCBAXU
+Number of guesses: 37
+UAAUABBBCBXUCBIACA
+Number of guesses: 36
+XBUBAAXIICBXXBICIU
+Number of guesses: 34
+IBCAAIAAIAXUIBBBIX
+Number of guesses: 32
+CIIUXAACABUCXACUIC
+Number of guesses: 36
+IUBACUIXXCBCCIBIII
+Number of guesses: 35
+BUABAXXXCXACUXUAIU
+Number of guesses: 38
+ICBUAUBXXBABAACBUA
+Number of guesses: 38
+AIBUIUXXBIACBAXUCU
+Number of guesses: 35
+AXUBACCXBBXAUXCCBB
+Number of guesses: 42
+XUCICCXXUIBAUBBAAC
+Number of guesses: 38
+UCBCUCIXCAUICAUAAX
+Number of guesses: 36
+BUCABBXICCUXCXBUAB
+Number of guesses: 35
+BABXXUCAUAAIBBXABX
+Number of guesses: 32
+IAIAUXXAIXAIUUXXUA
+Number of guesses: 41
+BIUCIIUBUUBUXCCAAA
+Number of guesses: 39
+XUCIUIXAAACUBXXBIX
+Number of guesses: 29
+CCXUIBICUBUBUCCUUU
+Number of guesses: 41
+XICAACIAUXAICIUUUB
+Number of guesses: 36
+ICUCCBXIXXBIIIBIUU
+Number of guesses: 33
+CAICUCXXUCICIBUXIC
+Number of guesses: 36
+AUXXXCICCUCBBBXUIX
+Number of guesses: 36
+IIBCXIUBUXAXUBUICB
+Number of guesses: 40
+XCAIUXUICCCUUXICIB
+Number of guesses: 37
+XXABUAACCUAACABXBI
+Number of guesses: 40
+XUBUUAIXXBCCCIXICI
+Number of guesses: 36
+IXIXABCUAIXABBICBX
+Number of guesses: 37
+CUIAXUBXAUAABXXXBU
+Number of guesses: 40
+XBXAAAIUBAIIUCCUXX
+Number of guesses: 37
+CUAAUCXBUCUIUXXUII
+Number of guesses: 34
+BAAXICBXABXUXBBCAC
+Number of guesses: 40
+UAUBXXXBABUUIAACCI
+Number of guesses: 32
+UCIUXXXCBIABIXXUCX
+Number of guesses: 34
+ICCUBXCCXCIICXAAIU
+Number of guesses: 39
+UXUCXXIAXBCXBBAAUA
+Number of guesses: 36
+CBAXAABXABAIICIICA
+Number of guesses: 37
+XUABCCXAUUCUXIXUAB
+Number of guesses: 30
+CIXXXAXXAXCCXCUXAI
+Number of guesses: 33
+CBAIUCCXXAUCXCCCUC
+Number of guesses: 40
+IXIUCCUBAXXCXUXUBA
+Number of guesses: 33
+IIBIAAAXUXBBABIUIC
+Number of guesses: 33
+UXXAABBUBABAAXBUIC
+Number of guesses: 32
+XIIBXCIXIBAXCXACCC
+Number of guesses: 38
+CBCUXUIIIUIAABUCCU
+Number of guesses: 34
+IICUUCCICAXICUUXIB
+Number of guesses: 37
+ICXXAUBUXXIAAAIUBC
+Number of guesses: 38
+CBIXAAUUBCUCAXUBAB
+Number of guesses: 33
+BBCAUICCCCAAUUIBXC
+Number of guesses: 39
+XAXXIBICUCCIXBIBXB
+Number of guesses: 39
+IAAUBXCCAAIAXBBBIX
+Number of guesses: 38
+CIIUCABUAAICXBAXAA
+Number of guesses: 34
+ICUUAXABUIUACIUCXU
+Number of guesses: 37
+BUUUCXIBIBXBAIACIU
+Number of guesses: 35
+UBBUAXXXXIIUXXACXB
+Number of guesses: 35
+XCXXAIAXAUBCBABXXA
+Number of guesses: 37
+BIIBXCUIICCIAXUIAB
+Number of guesses: 39
+AXXIBUAACAICCABCXX
+Number of guesses: 38
+AUACXUXXIUCBUIXIIX
+Number of guesses: 29
+XIBAXXBBXIBICXBXUI
+Number of guesses: 39
+CAXBBXIXUXUIUBXAIB
+Number of guesses: 40
+ABBACXUCIUIIUUBCIC
+Number of guesses: 44
+CUAAXCCIUIIICBBBXA
+Number of guesses: 34
+CBXACBCXXXCAICCUAA
+Number of guesses: 40
+IAXXCUCCUIABBXIABB
+Number of guesses: 41
+XBBXBIBIICIUAUXCAB
+Number of guesses: 26
+IXCABBXXABCXIUAAAA
+Number of guesses: 36
+CIBUUCABBUUIXUICXB
+Number of guesses: 43
+XXICBUIABBCUIBCIAC
+Number of guesses: 32
+BBIBXBXUAIBBAIBIII
+Number of guesses: 35
+UUXUACCXACICIACAIA
+Number of guesses: 44
+UAIUCCUBIUIXCXBXCB
+Number of guesses: 34
+XIIXCCBACXXXCCAUCA
+Number of guesses: 41
+ICUAAIAXUXUBCBCCXI
+Number of guesses: 36
+BAXICBABIAXBUBCXIA
+Number of guesses: 39
+IXUCXXXBICCBABBXAC
+Number of guesses: 29
+BBIUUUIBCIBUBUBACI
+Number of guesses: 39
+XUBICIAXBXCXCUUIXI
+Number of guesses: 33
+CACBICICIBBCBUCUII
+Number of guesses: 37
+AACBUCUXXXIIIUAIIU
+Number of guesses: 42
+BIIIBAUICXCXBBXUAU
+Number of guesses: 39
+UCBUAUUAUIXXCIICIC
+Number of guesses: 32
+XIABXIUIXBBAXIIIIA
+Number of guesses: 44
+XXXIXIXCABAUUCUCBC
+Number of guesses: 38
+IXIXBCXCIBAACCUIBX
+Number of guesses: 36
+CXAIUUUUCAXAAACBCI
+Number of guesses: 31
+BABBCCUAAIBBUUABIU
+Number of guesses: 38
+XBCBAXIICXBIUUXCCX
+Number of guesses: 36
+CCXICUXCAAXAUBIIUX
+Number of guesses: 35
+AAXABBIIBIBUBIUACI
+Number of guesses: 33
+AXICBIAAAUACXCCCIU
+Number of guesses: 38
+AABXBICXXBAXUUBACC
+Number of guesses: 40
+CIAXBUBBBXCXXUAUUI
+Number of guesses: 38
+XBXIUBCUBUBUACBCXX
+Number of guesses: 38
+AIUCACUXUAUCBXXXXB
+Number of guesses: 37
+IAICCUXCIXIBCAUIAA
+Number of guesses: 39
+XIACBIBAICXCBCBUAA
+Number of guesses: 43
+AUICCAIXBIBBCUXXUX
+Number of guesses: 40
+CUCCIBUBBACIXBBCXA
+Number of guesses: 36
+UAXUCIBIUUXIXIBBIU
+Number of guesses: 36
+IXACIAIUXAABUAUICU
+Number of guesses: 37
+AXAXCCBUCICXCUXCAB
+Number of guesses: 32
+XCXXIUIAUIBIUAUCXU
+Number of guesses: 41
+XUCBIUCCIUCABUABBU
+Number of guesses: 35
+XXCXIUXCUCICBXIACI
+Number of guesses: 34
+BBUUUCUAIBBUCIUIIC
+Number of guesses: 37
+AIXBXIUUUAXBXUBCBI
+Number of guesses: 36
+ACCUXAABIICCUIIBIA
+Number of guesses: 29
+XACAAXCXXIIIBXAIXX
+Number of guesses: 35
+XUXBUBBBUCCUUXXAAB
+Number of guesses: 32
+BIABCCBUABICCACUUC
+Number of guesses: 41
+UIABXCXABCBUCXAICA
+Number of guesses: 33
+AAABAUBCBBCUCXXBUI
+Number of guesses: 33
+UXCACIUICAUAACAAXC
+Number of guesses: 40
+AABAUBIUXCCUBABXXX
+Number of guesses: 34
+XBXXAUABIBXIUBBIAX
+Number of guesses: 32
+AUUUIUABXAIUUUXIAA
+Number of guesses: 36
+ACXXIBBABCACBUAICI
+Number of guesses: 42
+BXACUIBUIAAICAUACC
+Number of guesses: 38
+UUCAIIIXXBAACAIBBB
+Number of guesses: 39
+BBIUACIAUBXUAUCICA
+Number of guesses: 39
+BACCIAIXCAUUUAXIXA
+Number of guesses: 36
+UAAUXIBAACBAICCCAU
+Number of guesses: 31
+AAUCICCCUCBCCAUIUX
+Number of guesses: 34
+XCIBUAAACIIIXCCCIU
+Number of guesses: 38
+IXBXAIUBBBXBCACUIC
+Number of guesses: 38
+ICBUAIXXXCACAIIUUC
+Number of guesses: 37
+XUBAXXXCBIXXUUUIUI
+Number of guesses: 40
+IBACXABXAIXUACAICX
+Number of guesses: 31
+XIUUUUUCCXBIICIXUI
+Number of guesses: 36
+XXIUXXABUCUCIXBICX
+Number of guesses: 39
+CCIBUXCACUUUUABUAB
+Number of guesses: 34
+UAXCAAUUBBAXBXIIUA
+Number of guesses: 37
+BUUXBBBXCCIAAUUACB
+Number of guesses: 34
+ACXXIAUUXXABXIUAXU
+Number of guesses: 35
+CIAABBBCUCIIAICUIA
+Number of guesses: 39
+XACICIXUACIABABUUX
+Number of guesses: 34
+ACUCUCIUABCBICCICC
+Number of guesses: 36
+ACUBIBXXIICIABIXAI
+Number of guesses: 39
+XAUACACXIXCBXXBUBU
+Number of guesses: 39
+UUUXICXCAUICUUABAA
+Number of guesses: 40
+ACBXAUAUABIICXUUAX
+Number of guesses: 34
+CAAXXCBBXAABBBIAUC
+Number of guesses: 40
+CUUIAIUIBCAAIUXBCA
+Number of guesses: 34
+ACCCXXUUCUCIBUCUUX
+Number of guesses: 38
+BIABUAXABIUBIACXXB
+Number of guesses: 45
+IBICACBUUXXIABCBXA
+Number of guesses: 36
+IICAUBICCAAUXUUCAC
+Number of guesses: 40
+UBABUUIAXACUIXCUCC
+Number of guesses: 33
+XXAAABIXCUBXAXIBAI
+Number of guesses: 39
+XIIXXUCXICXAUIBBBC
+Number of guesses: 33
+UXIAAAUXIBAIAUAAXC
+Number of guesses: 35
+BBXBICAIICAUCAICIU
+Number of guesses: 32
+BACUIAXBIAAIBIUAII
+Number of guesses: 48
+IICUCIAXUBUIXABXBA
+Number of guesses: 40
+UXBAUBBAXUICIIIACX
+Number of guesses: 34
+BXBCAXXACIXCBXBBAA
+Number of guesses: 35
+ABXACCUACXXXACXIAB
+Number of guesses: 30
+UIIBXBIICXXIBBCCIX
+Number of guesses: 34
+UBUBXXBXIIAIAIUBBX
+Number of guesses: 34
+AUAACCXUCUACBCBUAI
+Number of guesses: 34
+IUIBXXICICIICIBCBB
+Number of guesses: 37
+UBXIIUXUIBCUUIBCCB
+Number of guesses: 38
+CBXUXIIXAUXUBBIACI
+Number of guesses: 32
+BCAAXIXBAUABIXBUCB
+Number of guesses: 29
+CCXCBUCUUBAACUUUXI
+Number of guesses: 34
+BBICICXAXIXCBBICCB
+Number of guesses: 36
+BICXUBCIIUXCAXXIXC
+Number of guesses: 35
+BAXIIUBCAAIXCCCCIC
+Number of guesses: 40
+CUAIACABXUXUIIICUB
+Number of guesses: 32
+UUAUIUUUAAUACIBBIC
+Number of guesses: 34
+BUUCXCCXCXXCCIIUCA
+Number of guesses: 32
+BUBCBUIXBXAXXAUUXX
+Number of guesses: 36
+BAUUIXUAUIXAIAAXXA
+Number of guesses: 40
+XUUIAXBCCAAUUIUABX
+Number of guesses: 36
+ACXBBUAUABAUBUUXAX
+Number of guesses: 30
+CXCIACUAICXIAXUUUU
+Number of guesses: 36
+UCBIIACABBAXAABXUB
+Number of guesses: 34
+CAIXCCXXCBACBAUCAC
+Number of guesses: 33
+ACBUXBIBAAXUCUBXBB
+Number of guesses: 35
+AXAAAIAXXICUCAXAXB
+Number of guesses: 37
+CAIBIAIICBUABCIUBA
+Number of guesses: 38
+IAIXUCIXUXUIUACIIB
+Number of guesses: 31
+UXAUUCCCIIUXXUUUCI
+Number of guesses: 40
+IBCUUUUCXABBUBBXCA
+Number of guesses: 33
+IAXAICBIABCUAXXCIA
+Number of guesses: 40
+BUXBUCICAIUICXIABI
+Number of guesses: 33
+XBUXXUUAAXAUACUUCU
+Number of guesses: 33
+BBXUIUIXCBBXIBUAIB
+Number of guesses: 39
+XUUBBBAIBXCICAUCAU
+Number of guesses: 41
+UXUAXICBIBUUAIXXBA
+Number of guesses: 35
+IUCCACACBXXAXUACCX
+Number of guesses: 38
+ICIAAXUCBIUIUBXCCU
+Number of guesses: 42
+UCAXUAAAXUCCBIAXBC
+Number of guesses: 36
+IUAXBCXACBAUBACIUB
+Number of guesses: 32
+ABBUICXBIIXIIBCIBB
+Number of guesses: 39
+UICICAAUCUUBCXXXCI
+Number of guesses: 29
+UAAIIUIIIUIUIIUIXC
+Number of guesses: 35
+BIUCIXIIUBXBXXCAIU
+Number of guesses: 33
+UXUCBXCCICCBUXBAUX
+Number of guesses: 33
+UUXXXUBBBBACUCBUUI
+Number of guesses: 38
+AIIIBXBCXUACABCCBB
+Number of guesses: 35
+BAIXIBUAAICIICIIAB
+Number of guesses: 36
+XCBBBXCUBIIXABCAUB
+Number of guesses: 31
+IBCUUIAUBBBBIIAUUB
+Number of guesses: 36
+BBICXBIXAUAXAAIIXX
+Number of guesses: 38
+BAXUUXICCIXXUBBAAA
+Number of guesses: 37
+BCXUCAUXBXBBAIXIAB
+Number of guesses: 34
+IAXBBAXCUBBAXAXXAI
+Number of guesses: 41
+IBBIXCCBUUAXXBBUBA
+Number of guesses: 38
+BIIBCBCUABAXCIUUCX
+Number of guesses: 39
+UCCCIXACBUBAXCCAUB
+Number of guesses: 34
+BBUIBUUIIUXACCUXBB
+Number of guesses: 38
+BBUXIXBXUBBXABCIXC
+Number of guesses: 32
+AXBACBUXXXXXBIAXCI
+Number of guesses: 34
+BXBAICBBXUIXAIAXUX
+Number of guesses: 35
+UUUIBBCICCUIUCUAIA
+Number of guesses: 35
+CXABACBXAIAIXCBICB
+Number of guesses: 44
+AUCAIAXBICXUUCAUBC
+Number of guesses: 35
+UUXIUCUUBXIUAUCIUB
+Number of guesses: 38
+ICBBIUIIXCXUAXAUCB
+Number of guesses: 39
+XIBBBIACUUCBUUXBAU
+Number of guesses: 38
+ACBBBUUXXUACBCUCXX
+Number of guesses: 40
+IAXXUUBXUXAXUICCIC
+Number of guesses: 33
+XBUUAUBUAABXUXUXCA
+Number of guesses: 31
+AAXCAIXIXACXXXIUAC
+Number of guesses: 35
+ICIBIBAAIBCAXICUCB
+Number of guesses: 34
+BACIIXUACCIAIAACAC
+Number of guesses: 37
+BAXBBIAICCUIBIUXBU
+Number of guesses: 32
+BXCUACCUIXUUBCIUAX
+Number of guesses: 37
+UUUBUBXUXACABIXIBI
+Number of guesses: 42
+AAXXBCXXCUCBBCIIUI
+Number of guesses: 37
+ACUIAAXCCCUXXUICUX
+Number of guesses: 35
+IICBCICBIXXAACIIUU
+Number of guesses: 36
+UIIABIBUCIACAAIXIA
+Number of guesses: 39
+IUAABIAXIICABCBBCA
+Number of guesses: 33
+BBIACBUCUUIBXBBUCB
+Number of guesses: 36
+XIIACIBIBUCICACCBI
+Number of guesses: 32
+CXXUBCXCXXXAAABCBC
+Number of guesses: 41
+AIUACUCIXAIABAXBXI
+Number of guesses: 33
+BABCXUCXIXXABCBXIU
+Number of guesses: 37
+XUXAUUAUBACCBBXUCA
+Number of guesses: 42
+UBICCXXXCBAIXIAUUU
+Number of guesses: 37
+CBCUXIABUCCXUXCXBC
+Number of guesses: 38
+ABUAAIXBXIAXUUCCXA
+Number of guesses: 35
+XBICXBCCCUICUBBAUI
+Number of guesses: 34
+XXXICXCXUXACAIXICA
+Number of guesses: 34
+XUXCBAAABBUBCBCCBI
+Number of guesses: 30
+AXAXXIACXBBAXXIUCX
+Number of guesses: 35
+XUXAIBUUCBUUUAUXII
+Number of guesses: 39
+UAACCBAAIXBUXIBABA
+Number of guesses: 42
+XAIIAUAXUXIUCXBBUC
+Number of guesses: 36
+CBBXUBUXIXCBIAUXBX
+Number of guesses: 32
+BUCACIABAUICBBUBCB
+Number of guesses: 38
+ACUCXUXIUBUBCACAIU
+Number of guesses: 38
+XACCBCAAXIXUAXIABB
+Number of guesses: 35
+BAUAXBXBUAUIBCIIXB
+Number of guesses: 42
+UICBIXACBABCIUBAAX
+Number of guesses: 31
+BUIBIIAIBBXBABUIUC
+Number of guesses: 34
+XBXXCIBXXUXCIXCUBB
+Number of guesses: 36
+AIIBICBAIXCIUBAUBX
+Number of guesses: 37
+BBUABIUUBBIAXXXBIX
+Number of guesses: 37
+CAXACUXAXUIABUXUCX
+Number of guesses: 41
+UAAICBBBCUBBCIXXCX
+Number of guesses: 41
+ABBXUICUAICCAIIUAX
+Number of guesses: 40
+UXXBUAIUXUIIBICCXA
+Number of guesses: 36
+AABXIAAIAAUIAIUCCC
+Number of guesses: 38
+UCXIABUAUABXXXIUBC
+Number of guesses: 43
+CXIIACUIUAABBXAUUC
+Number of guesses: 38
+AIBIBUXUUBIIXBUICC
+Number of guesses: 35
+CBICXCCXBIAAUCAXIU
+Number of guesses: 36
+UXIIBXBIBICUXIXXAC
+Number of guesses: 32
+IXUXACUXIICIBIUCII
+Number of guesses: 34
+ABXXBAICIUIBCIBUBB
+Number of guesses: 32
+ACIAXACXIXCBCCXACU
+Number of guesses: 41
+BCIUBIUAUXXBCXAUBX
+Number of guesses: 42
+XUACAACXIIUUBCACUB
+Number of guesses: 37
+UIUXXUUUAIABUUIAXB
+Number of guesses: 36
+XXUIAAIIAABBXIBACI
+Number of guesses: 34
+CUBCUIBUIXXXAUXCXC
+Number of guesses: 36
+AXXUIIUCUCXIIUBIAU
+Number of guesses: 39
+CCCACUCXAXIIBABXCX
+Number of guesses: 38
+UXUCBIUAXBBAXXBXBI
+Number of guesses: 35
+XBUUXXUABIAUXCXBAX
+Number of guesses: 39
+AAUBXUXXIIAIAAXCXC
+Number of guesses: 39
+CCBUXIAUIBIXBCBXBX
+Number of guesses: 35
+XUIBAAIUIIXXXIUUAA
+Number of guesses: 31
+CIUAUIXICAIBIIUIIX
+Number of guesses: 37
+XIUBCCAXAXUABBAIUB
+Number of guesses: 39
+AUXIXXAXUBCBUIAUXB
+Number of guesses: 34
+BACBBACUICUUCCBIXA
+Number of guesses: 43
+IXUCBIBAUICBABUAUA
+Number of guesses: 34
+AAXUABUCAAIXXUUIXA
+Number of guesses: 33
+XAXAAIAXBXCAUIXAUU
+Number of guesses: 39
+IUCBXUAIIUABABBBUX
+Number of guesses: 37
+CUAXUAABUCIICUBAAI
+Number of guesses: 35
+BXXCUIIBCCXXXBABUB
+Number of guesses: 28
+BXACBAAABBCACBIIBB
+Number of guesses: 38
+XIXXIAXUBUBCUICXUA
+Number of guesses: 36
+AIXAIUIAABBBIXUIBC
+Number of guesses: 33
+IUIIIXAXCUAAUUXIIU
+Number of guesses: 41
+ICCXXXXAIAIIIUIUBB
+Number of guesses: 32
+IIUAUUABAAUAAXCIUB
+Number of guesses: 34
+AAUBAAAUUBACABCXCB
+Number of guesses: 37
+BUUBAAXUBCIIUCUIUI
+Number of guesses: 34
+IUXXBBUBXCXCIBIIXX
+Number of guesses: 36
+ACIAXIIXBCAXCXXUXA
+Number of guesses: 29
+UAAIIAIXXUCCXIUIII
+Number of guesses: 38
+UXCXXUXUABAUCUUBCC
+Number of guesses: 42
+BXAXUICBICBCABAIUU
+Number of guesses: 42
+CCCUIUCAAUAIBXBUXB
+Number of guesses: 42
+AUCICUBXXCICBAXXAX
+Number of guesses: 37
+XAXBCCIAUCCXXAAXAB
+Number of guesses: 37
+XAXUUCIUIBUXIBAUAU
+Number of guesses: 41
+ICCCXUBXXAUAUXXBBU
+Number of guesses: 35
+CIBXUCUXACCBXIICIU
+Number of guesses: 40
+BBUBXCCBUCAIXAAXAX
+Number of guesses: 33
+CXCIUICCCAACUIABIU
+Number of guesses: 36
+UCABICAABAUICXUUBB
+Number of guesses: 36
+ICBCIUUXXXIXCUCXUB
+Number of guesses: 32
+IIAIBAUIXAUAUXAIAI
+Number of guesses: 33
+ACUIACCAIIUACAICBA
+Number of guesses: 37
+IBAICCIUIIUXUUAUBC
+Number of guesses: 31
+BAUCICIIIBIUXIIIBU
+Number of guesses: 37
+UUCCBAACCAUXCIAAXB
+Number of guesses: 33
+BXXXUAIUABUACBAUXX
+Number of guesses: 43
+UAUXIUIXXAICUBBBCA
+Number of guesses: 32
+IACACUIACUXIAAUIIA
+Number of guesses: 39
+CUBCUBAAACXIIIXUIX
+Number of guesses: 42
+BCCBIUBIUXXIBXAAXB
+Number of guesses: 36
+UUCIBXCIXUICXIUABA
+Number of guesses: 39
+XXUBIXXBAUACUXUABA
+Number of guesses: 37
+UAXBUCCAAAIUXICXXU
+Number of guesses: 33
+BCXCBCABXXICABXCXI
+Number of guesses: 36
+ABXABXACCBAUICIXXU
+Number of guesses: 30
+UIIAXUUAXAAXAXAXUA
+Number of guesses: 45
+XXXUBIUUCIAUBCACUA
+Number of guesses: 31
+ACCAAIXICCCXABCXCA
+Number of guesses: 39
+CBAXXIUBACUCXAABCC
+Number of guesses: 39
+ACAAAAUCICXBAUBUXB
+Number of guesses: 36
+CXUBBCUCCCIAXBXBUI
+Number of guesses: 43
+BBIXUUIXCXCUACAUUI
+Number of guesses: 36
+AIAUBBXCBBBBXIIUCA
+Number of guesses: 39
+CCCUXAUIXCCUXCBAAA
+Number of guesses: 34
+XAXBABABAUCCXUXABI
+Number of guesses: 31
+CACICAIIABBCBUAIAC
+Number of guesses: 36
+AIXCXCUXBAIBUCUXCI
+Number of guesses: 37
+IIXXBIUBBBBXXBXCCA
+Number of guesses: 39
+BCBIICAXBCBBXUICXA
+Number of guesses: 31
+ACUXABUIAUIBAUIXUU
+Number of guesses: 34
+BACBXUACCBCBCCXBIX
+Number of guesses: 37
+BABIAUUXXBUUBXBCCU
+Number of guesses: 39
+UXXABUCXAUIIXUUCCB
+Number of guesses: 37
+ACBCBABICIUAIBUBIX
+Number of guesses: 37
+UUCBBBCICABAACXAXA
+Number of guesses: 27
+CXCXCUBXBCBBUIBUXB
+Number of guesses: 37
+AXIBAIBAUICBUUAXIX
+Number of guesses: 38
+XBAICBAACCBBUUIBIC
+Number of guesses: 37
+IXABBCAAUCCCACBIIX
+Number of guesses: 41
+CBUUXUXAXIAIAXIBAX
+Number of guesses: 36
+CAABBXICXUUICIIACI
+Number of guesses: 33
+IAICCIXXICIAUCICUA
+Number of guesses: 42
+XUCIBUXCXUABXIAAXI
+Number of guesses: 41
+BIXUAXBUICABIIBCIA
+Number of guesses: 35
+UCBAXUBBBXBBXACBXC
+Number of guesses: 30
+CBIAACAXCBBACIXCIA
+Number of guesses: 33
+UCABBUCUCXBBAUCCIX
+Number of guesses: 37
+UXABBAIBCXCIUXIBUU
+Number of guesses: 31
+BBXIACBICCIABBICUB
+Number of guesses: 37
+XIUIUICXUUUUACBBII
+Number of guesses: 36
+BABIBCIIXIACUAIBBA
+Number of guesses: 35
+IXACUCBUCXXCIUUCCX
+Number of guesses: 36
+IXCCBCCXAIIABAAAAB
+Number of guesses: 46
+CAIACXUIBXUUIAIBAB
+Number of guesses: 39
+CCBUUBBUBIAIBBXAXB
+Number of guesses: 33
+IIUIAIXIXUCCXIUIXA
+Number of guesses: 40
+UAUXCBICUXIIBIUABA
+Number of guesses: 31
+UABUCCCUUBXIBBBABU
+Number of guesses: 43
+IAUBBBBXXUIACICCXX
+Number of guesses: 31
+CICABCBXBBIIXCBAIX
+Number of guesses: 44
+UXIACUBXXAIXXACAXB
+Number of guesses: 39
+BBUXAXBXUCIIXCAIXI
+Number of guesses: 33
+BXCBAXCBAAICAIACAX
+Number of guesses: 35
+CXAXCCCBCBICCUUCAI
+Number of guesses: 37
+BBCCXACCUICAUUACAI
+Number of guesses: 37
+BUCXUBXUCABUXACCUA
+Number of guesses: 31
+CAIUUUCICXCAICICCU
+Number of guesses: 34
+XCBXABBBBUXXIBAIXX
+Number of guesses: 37
+XIBCAUCIIIUAXIAXXI
+Number of guesses: 41
+CICXCIBUUIAIBAUXUX
+Number of guesses: 37
+CBIXBUBCAABXUAIBUX
+Number of guesses: 36
+XBXCACXABAIIBCCAIU
+Number of guesses: 35
+XIUBBAIUCAIAIAAABU
+Number of guesses: 42
+ICIUCBABBUXCBCAIIA
+Number of guesses: 38
+UIIAUXUXIBACBBBICB
+Number of guesses: 38
+UICCUBABCCBAUUUAXB
+Number of guesses: 44
+CXUXXAAXUCIUIIIBUB
+Number of guesses: 38
+CUUBIUABAUXUIAIXBB
+Number of guesses: 34
+XCCBBIIBCIAXXXIAIX
+Number of guesses: 32
+AIABBAAUAAIUBCCACA
+Number of guesses: 32
+IIIBCIUXIUCCCXIICX
+Number of guesses: 32
+IXAXICBXUICXIAXAAA
+Number of guesses: 38
+UIUAXCAXBXXBIIXBUC
+Number of guesses: 35
+BXBACUBCCXIUACAUXA
+Number of guesses: 33
+BIBBXIAIBXBBIXXUXA
+Number of guesses: 34
+AXUABCXIAUIAXUBCAI
+Number of guesses: 29
+UBAAXXCXCUXCCCCXCC
+Number of guesses: 33
+ICIBAIXBCCXIIXXACU
+Number of guesses: 38
+BXBUUIBXBUCIIUCUAC
+Number of guesses: 30
+CAABCXACBCUIXXAUAA
+Number of guesses: 40
+BBBCCAIUIIACUUACXX
+Number of guesses: 40
+UBAAAIXAUAUXXUBXCC
+Number of guesses: 45
+XAACUICXUBICXABCII
+Number of guesses: 40
+UCUBIICBAXBXBXUUIX
+Number of guesses: 32
+ABUUAUXUXAAXBUCXAI
+Number of guesses: 37
+IIUICAAICUABIUBUBI
+Number of guesses: 38
+UUUUUAXCCABUIIIXAA
+Number of guesses: 31
+CBAAAAIUABIXIAUIIA
+Number of guesses: 36
+XIIXXAIBUAXABIXBUU
+Number of guesses: 34
+IIUUIIIAXBAICXBAIX
+Number of guesses: 39
+UACCUABXXBABIABACX
+Number of guesses: 33
+BIAXXIIIUCUXAIUIAI
+Number of guesses: 40
+AUIXCUACXBXXAIUBAB
+Number of guesses: 34
+IIBXUBBBBUBUUXCXUX
+Number of guesses: 34
+IUXIBUBUXBBXBAIABU
+Number of guesses: 38
+XXUIUCAXCIAAUBXCIX
+Number of guesses: 32
+BCUUCIUBUUUBBAXUXU
+Number of guesses: 31
+CICCUCAAIBIBIAUXII
+Number of guesses: 36
+XABCCCCXABCAUUBUCX
+Number of guesses: 30
+AAUXIAUXAUXABAACAU
+Number of guesses: 34
+CUCICCUCUIUXCXIBBC
+Number of guesses: 37
+CBUIIICIUAXUIXCABI
+Number of guesses: 37
+XBACBBXUUAXUAUBABC
+Number of guesses: 36
+IIBXBXBBUCXAABBBBA
+Number of guesses: 36
+UIBAIABXIIAUCUICBX
+Number of guesses: 31
+UBIBUXAXAXBUXXIBIU
+Number of guesses: 38
+CBAABIXUUIUCCUCUXC
+Number of guesses: 38
+AXUAXBBXABCAICUXAB
+Number of guesses: 42
+XICXUAAXXUABIBBUCC
+Number of guesses: 36
+ACXCBUBAIBCCXXABBC
+Number of guesses: 39
+AICXBUCXICUABCUICU
+Number of guesses: 39
+UBACXUXCXABXAXXIXI
+Number of guesses: 36
+IACXIXABXBACXAXAUB
+Number of guesses: 36
+AIUIBBCUUIIBCBABBA
+Number of guesses: 34
+AUICXUAUAXAUAXICCA
+Number of guesses: 38
+IUCAIXCUBBBAIBUUIB
+Number of guesses: 38
+XAIIIIXAIAIAUUBUBB
+Number of guesses: 36
+UAUBICXACBBUBICUAX
+Number of guesses: 35
+CXAXUCXBUIUACIAXCI
+Number of guesses: 44
+BCUXAUBBUXIIABXIAA
+Number of guesses: 33
+CAAXBIAABAICBIBABX
+Number of guesses: 36
+AACBIICIXXUIBICBXC
+Number of guesses: 31
+BXCICXCIACCBXCUBUI
+Number of guesses: 39
+AIUAICIICCBAUXXAUC
+Number of guesses: 39
+XIXAACAXUIUXABXUUB
+Number of guesses: 39
+ACXXUIXUAUCAIAIXIB
+Number of guesses: 32
+ACCACAAXIIXAAABIIC
+Number of guesses: 37
+UXUUUIUAUBCICICXXU
+Number of guesses: 31
+AIIBBBAIXAAICAIABU
+Number of guesses: 38
+ACCCCCXUIUCCIBCCXB
+Number of guesses: 36
+BAIBUXICXUAXXAXCUX
+Number of guesses: 34
+BBBAIICUBCXUBBABXB
+Number of guesses: 41
+IBXUIUCAIACXXIXAIA
+Number of guesses: 38
+BCIXUBIXUAUXIUXBCI
+Number of guesses: 36
+UBACBCCXABIAAXCACX
+Number of guesses: 43
+XCUICCUXACAIIBXBIA
+Number of guesses: 40
+AICBXCCUXUCICABCXX
+Number of guesses: 39
+IIXUIUAXCAICXICCUA
+Number of guesses: 36
+CIAXUIIABICUUUAUXC
+Number of guesses: 34
+CXUIAIIUAXBIUACUCC
+Number of guesses: 36
+XUIAUIBCBIUUCABAII
+Number of guesses: 38
+AICAXUCIIXUXAIUIIU
+Number of guesses: 40
+BAXCUCUIXUUAABAXIX
+Number of guesses: 35
+XIXXBIBIUIUCABBIIX
+Number of guesses: 38
+ICCCBXIUAXCUUBIAUI
+Number of guesses: 38
+IBXXBIBAIICXCXXACA
+Number of guesses: 40
+AUXBXCICBAUBBCUIXI
+Number of guesses: 38
+BAAUICUXCCUUIIBIAA
+Number of guesses: 31
+AIUACIXCIBUXAXCIXX
+Number of guesses: 35
+CIBIAXCUUCIIXUICIX
+Number of guesses: 37
+XAUIXIICXXAAUACXXC
+Number of guesses: 35
+XUUCBUIICIBXCCCXAU
+Number of guesses: 37
+UAUUCUAIAICABUBBAC
+Number of guesses: 42
+IUXBBBAAXUUIUBCIIC
+Number of guesses: 36
+CBBBUIAAAUCIBBCBBX
+Number of guesses: 32
+BAXAAXCUCBBBIXIABB
+Number of guesses: 38
+IIBCIUIIAICCABXXBB
+Number of guesses: 32
+BXAAIBIIXBXCIAXXXI
+Number of guesses: 38
+XUCUICXICCCBABIBBX
+Number of guesses: 28
+IIUXUAUXXXIICBIUXX
+Number of guesses: 36
+AXUCCAAICACUACCBXX
+Number of guesses: 38
+XABBXCBUBIIIXXUIBA
+Number of guesses: 42
+UXCABAAIUXBXIXXCAB
+Number of guesses: 35
+XIBCIABAAUXCIAIUBB
+Number of guesses: 39
+UCBXBAUCIAABCCUBUA
+Number of guesses: 35
+IXACIIBCXIBABUIXIB
+Number of guesses: 36
+BXBXBABUIBCUBXUUXA
+Number of guesses: 40
+XIUCXXACAABBXIUUBA
+Number of guesses: 39
+BUUBAIXIBBCBXACCCU
+Number of guesses: 35
+XAICIAUBCBIBCBCXUB
+Number of guesses: 39
+UACIAIBAAIABACXUUB
+Number of guesses: 36
+UCICAUBAACACBIACCX
