@@ -44,4 +44,8 @@ public class SecretCode {
     long t2 = System.currentTimeMillis();
     System.out.println("Time taken: " + (t2-t1) + " ms");
   }
+
+  public SecretCode(String code) {
+    this.correctCode = code;
+  }
 }

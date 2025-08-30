@@ -1,8 +1,7 @@
 public class SecretCodeGuesser {
     private static final char[] ALPH = {'B','A','C','X','I','U'};
-    private final SecretCode code = new SecretCode();
+    private SecretCode code = new SecretCode();
     private static final int MAX_LENGTH = 18;
-
 
     static int order(char c) {
         if (c == 'B') {
@@ -23,7 +22,7 @@ public class SecretCodeGuesser {
         // 1) Find the correct length by brute-force
         int correctLength = -1;
         int matchedA = -1; // score for the last length probe
-        for (int length = 1; length <= MAX_LENGTH; length++) {
+        for (int length = MAX_LENGTH; length >= 1; length--) {
             String codeGuess = "A".repeat(length);
             int result = code.guess(codeGuess);
             if (result != -2) {
@@ -83,10 +82,16 @@ public class SecretCodeGuesser {
                     if (tried[j]) continue;
                     char candidate = ALPH[j];
                     if (candidate == original) continue;
-                    if (remaining[order(candidate)] == 0) { tried[j] = true; continue; }
+                    if (remaining[order(candidate)] == 0) {
+                        tried[j] = true;
+                        continue;
+                    }
 
                     int score = remaining[order(candidate)]; // order hint
-                    if (score > bestScore) { bestScore = score; bestIdx = j; }
+                    if (score > bestScore) {
+                        bestScore = score;
+                        bestIdx = j;
+                    }
                 }
                 if (bestIdx == -1) break; // nothing left to try
 
@@ -120,5 +125,9 @@ public class SecretCodeGuesser {
 
         // 5) Output the discovered secret
         System.out.println(new String(cur));
+    }
+
+    public void setCode(SecretCode code) {
+        this.code = code;
     }
 }
