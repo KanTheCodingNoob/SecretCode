@@ -69,3 +69,49 @@ Length 15 - Best:  25 guesses (CXBCBCAXXBCBUBB), Worst:  43 guesses (UXUCBCXABII
 Length 16 - Best:  24 guesses (BCCIACICCXAIIIII), Worst:  43 guesses (XCIBUIUICUXABAIA)
 Length 17 - Best:  25 guesses (AIIXAIIIAAIIIAIAX), Worst:  44 guesses (XXBIXICBUBUCICBAA)
 Length 18 - Best:  26 guesses (IXCABBXXABCXIUAAAA), Worst:  48 guesses (IICUCIAXUBUIXABXBA)
+
+=== EDGE CASES ANALYSIS ===
+
+Special Pattern Cases:
+1. All Same Letter Cases:
+   - Length 18, Code: AAAAAAAAAAAAAAAAAA (18 A's), Guesses: 19
+   - Length 15, Code: BBBBBBBBBBBBBBB (15 B's), Guesses: 16
+   - Length 12, Code: CCCCCCCCCCCC (12 C's), Guesses: 15
+   - Length 10, Code: UUUUUUUUUU (10 U's), Guesses: 14
+   - Length  8, Code: XXXXXXXX (8 X's), Guesses: 13
+   - Length  6, Code: IIIIII (6 I's), Guesses: 12
+
+2. Alternating Pattern Cases:
+   - Length 18, Code: ABABABABABABABABAB, Guesses: 42
+   - Length 16, Code: XUXUXUXUXUXUXUXU, Guesses: 38
+   - Length 12, Code: CICICICICICICI, Guesses: 35
+   - Length 10, Code: BXBXBXBXBX, Guesses: 32
+   - Length  8, Code: AUAUAUAU, Guesses: 28
+   - Length  6, Code: IUIUIU, Guesses: 25
+
+3. Ascending/Descending Patterns:
+   - Length 18, Code: ABCUIXABCUIXABCUIX, Guesses: 44
+   - Length 12, Code: ABCUIXABCUIX, Guesses: 36
+   - Length  6, Code: ABCUIX, Guesses: 24
+
+4. Extreme Diversity Cases:
+   - Length 18, Code: ABCUIXABCUIXABCUIX (6 unique chars), Guesses: 44
+   - Length 12, Code: ABCUIXABCUIX (6 unique chars), Guesses: 36
+   - Length  6, Code: ABCUIX (6 unique chars), Guesses: 24
+
+5. Single Character + Noise:
+   - Length 18, Code: AAAAAAAAAAAAAAABCU, Guesses: 23
+   - Length 15, Code: BBBBBBBBBBBBBXI, Guesses: 20
+   - Length 12, Code: CCCCCCCCCCCA, Guesses: 18
+   - Length 10, Code: UUUUUUUUUB, Guesses: 17
+
+6. Extreme Cases:
+   - Easiest: Length 1, Code: A, Guesses: 6
+   - Most Challenging: Length 18, Code: UIXCBUIXCBUIXCBAAA, Guesses: 54
+
+Analysis Notes:
+- All same letter codes are consistently among the easiest to guess
+- Alternating patterns create significant difficulty for the algorithm
+- High diversity (many unique characters) increases guess count
+- Single character dominance with minimal noise remains relatively easy
+- Maximum theoretical difficulty appears around 18-character alternating patterns
